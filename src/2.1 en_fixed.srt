@@ -1,0 +1,427 @@
+1
+00:00:05,000 --> 00:00:10,000
+Hello, my name is Inna Anokhina. And today we begin the substantive part of our course,
+
+2
+00:00:10,000 --> 00:00:17,000
+and we are going to talk about scientific publications, as it’s impossible 
+
+3
+00:00:17,000 --> 00:00:22,000
+to imagine a modern scientist not reading or writing scientific articles. 
+
+4
+00:00:22,000 --> 00:00:31,000
+As for the scientific text, it should be short and clear,
+
+5
+00:00:31,000 --> 00:00:38,000
+also from the point of view of the use of linguistic means, not to confuse the reader and not to be ambiguous.
+
+6
+00:00:38,000 --> 00:00:45,000
+In the modern world, all scientific articles are written according to the structure 
+
+7
+00:00:45,000 --> 00:00:53,000
+adopted by the American National Standards Institute in 1972. 
+
+8
+00:00:53,000 --> 00:00:59,000
+It’s interesting that the first scientific work which had an IMRAD structure
+
+9
+00:00:59,000 --> 00:01:05,000
+was that of Louis Pasteur. IMRAD is an abbreviation 
+
+10
+00:01:05,000 --> 00:01:12,000
+that translates into Russian as "introduction, methods, results and discussion".
+
+11
+00:01:12,000 --> 00:01:17,000
+All scientific articles are written according to this structure, so today
+
+12
+00:01:17,000 --> 00:01:22,000
+we will consider the structure of any scientific research article.
+
+13
+00:01:22,000 --> 00:01:27,000
+Of course, when you see an article or start working on an article, 
+
+14
+00:01:27,000 --> 00:01:30,000
+the first thing you think about is the title. 
+
+15
+00:01:30,000 --> 00:01:33,000
+The title of a scientific article should not be long; 
+
+16
+00:01:33,000 --> 00:01:40,000
+it should consist of 8-10 words, not including prepositions and conjunctions, 
+
+17
+00:01:40,000 --> 00:01:44,000
+and attract the attention of your audience. 
+
+18
+00:01:44,000 --> 00:01:50,000
+It is clear that in the process of working on the article, 
+
+19
+00:01:50,000 --> 00:01:54,000
+its title may change, 
+
+20
+00:01:54,000 --> 00:01:58,000
+however you still need to come up with a working version. 
+
+21
+00:01:58,000 --> 00:02:00,000
+After the article, you need to specify 
+
+22
+00:02:00,000 --> 00:02:04,000
+the author or group of co-authors of the article. 
+
+23
+00:02:04,000 --> 00:02:09,000
+You need to specify everyone’s names, initials, titles, 
+
+24
+00:02:09,000 --> 00:02:13,000
+degrees, places of work or study and countries. 
+
+25
+00:02:13,000 --> 00:02:15,000
+However, be careful, because the requirements
+
+26
+00:02:15,000 --> 00:02:18,000
+differ from journal to journal 
+
+27
+00:02:18,000 --> 00:02:25,000
+and before you fill out information about the author or authors, 
+
+28
+00:02:25,000 --> 00:02:31,000
+you need to coordinate it with the requirements of the journal.
+
+29
+00:02:31,000 --> 00:02:34,000
+In the third place there is the abstract. 
+
+30
+00:02:34,000 --> 00:02:38,000
+Despite the fact that the abstract comes immediately after the title 
+
+31
+00:02:38,000 --> 00:02:44,000
+and the list of authors or the author, it is often written at the very end. 
+
+32
+00:02:44,000 --> 00:02:50,000
+It’s created after the article is already written and the study was conducted. 
+
+33
+00:02:50,000 --> 00:02:54,000
+The abstract is also used to attract the readers’ attention.
+
+34
+00:02:54,000 --> 00:03:01,000
+It is a single paragraph which consists of 250-300 words
+
+35
+00:03:01,000 --> 00:03:05,000
+and corresponds, in fact, to the structure 
+
+36
+00:03:05,000 --> 00:03:10,000
+to which the article corresponds, 
+
+37
+00:03:10,000 --> 00:03:13,000
+that is, indicates the subject and the method of the research. 
+
+38
+00:03:13,000 --> 00:03:17,000
+Also you should not use abbreviations 
+
+39
+00:03:17,000 --> 00:03:21,000
+and numeric values in your abstract. 
+
+40
+00:03:22,000 --> 00:03:28,000
+Despite the fact that the abstract is in the first place, almost in the first place, 
+
+41
+00:03:28,000 --> 00:03:34,000
+the abstract is written at the very end of the study and work. 
+
+42
+00:03:34,000 --> 00:03:40,000
+That is this is the last part you are working on.
+
+43
+00:03:40,000 --> 00:03:46,000
+Then you need to formulate a list of keywords. 
+
+44
+00:03:46,000 --> 00:03:50,000
+There should not be many keywords and should not be few. 
+
+45
+00:03:50,000 --> 00:03:59,000
+Usually authors allocate from 4 to 8 keywords, and keywords are used 
+
+46
+00:03:59,000 --> 00:04:07,000
+to search for your article in international publication databases. 
+
+47
+00:04:07,000 --> 00:04:11,000
+After that the main part of the article begins. 
+
+48
+00:04:11,000 --> 00:04:15,000
+It occupies, in general, 80 per cent of the volume
+
+49
+00:04:15,000 --> 00:04:19,000
+of any scientific text of this type. 
+
+50
+00:04:19,000 --> 00:04:27,000
+And we will discuss now the introduction, methods, results and discussion.
+
+51
+00:04:27,000 --> 00:04:32,000
+As it is clear, the introduction introduces the reader
+
+52
+00:04:32,000 --> 00:04:36,000
+into the problems you are dealing with. 
+
+53
+00:04:36,000 --> 00:04:42,000
+In the introduction, you review the literature in this field, 
+
+54
+00:04:42,000 --> 00:04:45,000
+in the introduction, you point out those blind spots
+
+55
+00:04:45,000 --> 00:04:50,000
+that exist in this field or
+
+56
+00:04:50,000 --> 00:04:53,000
+that have not yet been investigated before you. 
+
+57
+00:04:53,000 --> 00:05:00,000
+At the end, you formulate the purpose and objectives of your research.
+
+58
+00:05:00,000 --> 00:05:05,000
+Then, in the methods section, you describe the research methodology, 
+
+59
+00:05:05,000 --> 00:05:11,000
+and describe it as carefully as you can and in great details. 
+
+60
+00:05:11,000 --> 00:05:15,000
+The research methodology should be described in such a way
+
+61
+00:05:15,000 --> 00:05:21,000
+that a specialist in the field could reproduce 
+
+62
+00:05:21,000 --> 00:05:25,000
+your experiment and get the same results
+
+63
+00:05:25,000 --> 00:05:29,000
+that you received in your laboratory. 
+
+64
+00:05:29,000 --> 00:05:32,000
+It should be noted that readers are 
+
+65
+00:05:32,000 --> 00:05:35,000
+unlikely to read this section, 
+
+66
+00:05:35,000 --> 00:05:39,000
+because you have already mentioned in the introduction, 
+
+67
+00:05:39,000 --> 00:05:42,000
+which method you used. 
+
+68
+00:05:42,000 --> 00:05:47,000
+However, this section is very important, because the reviewer 
+
+69
+00:05:47,000 --> 00:05:53,000
+will surely read it, read the methodology 
+
+70
+00:05:53,000 --> 00:05:57,000
+and, if he has doubts about the possibility of reproducing
+
+71
+00:05:57,000 --> 00:06:01,000
+the experiment in the laboratory, 
+
+72
+00:06:01,000 --> 00:06:05,000
+then your article will, at best, 
+
+73
+00:06:05,000 --> 00:06:07,000
+be sent to you for revision, 
+
+74
+00:06:07,000 --> 00:06:11,000
+in the worst case the publication will be rejected.
+
+75
+00:06:11,000 --> 00:06:14,000
+The next section that we will discuss with you
+
+76
+00:06:14,000 --> 00:06:16,000
+is the results section.
+
+77
+00:06:16,000 --> 00:06:19,000
+Here you describe the results 
+
+78
+00:06:19,000 --> 00:06:23,000
+of your experiment and present them in the form of tables, 
+
+79
+00:06:23,000 --> 00:06:28,000
+graphs, diagrams, photographs and drawings. 
+
+80
+00:06:28,000 --> 00:06:36,000
+You describe the results, compare, and give a brief comment.
+
+81
+00:06:36,000 --> 00:06:39,000
+The next section is the discussion. 
+
+82
+00:06:39,000 --> 00:06:44,000
+If the previous section dealt with facts,
+
+83
+00:06:44,000 --> 00:06:49,000
+ this section deals with ideas. 
+
+84
+00:06:49,000 --> 00:06:57,000
+You describe your idea, you relate 
+
+85
+00:06:57,000 --> 00:07:05,000
+ the results to your hypothesis, and you talk about 
+
+86
+00:07:05,000 --> 00:07:10,000
+whether you have achieved your goal and whether the tasks have been completed.
+
+87
+00:07:10,000 --> 00:07:16,000
+You can also mention limiting factors. 
+
+88
+00:07:16,000 --> 00:07:21,000
+As a matter of fact, this section is a generalization 
+
+89
+00:07:21,000 --> 00:07:24,000
+ of all your work on the one hand. 
+
+90
+00:07:24,000 --> 00:07:27,000
+And on the other hand, it is this section 
+
+91
+00:07:27,000 --> 00:07:33,000
+that connects your own results, which you received 
+
+92
+00:07:33,000 --> 00:07:38,000
+as a result of the experiment with the real world,
+
+93
+00:07:38,000 --> 00:07:44,000
+with the fact where and how the results 
+
+94
+00:07:44,000 --> 00:07:47,000
+of your research can be applied.
+
+95
+00:07:47,000 --> 00:07:55,000
+After you give the prospect for 
+
+96
+00:07:55,000 --> 00:07:58,000
+future research in the discussion section,
+
+97
+00:07:58,000 --> 00:08:06,000
+you need to thank the organization that
+
+98
+00:08:06,000 --> 00:08:11,000
+may have sponsored your research, if any. 
+
+99
+00:08:11,000 --> 00:08:20,000
+After gratitude there is a list of the used literature 
+
+100
+00:08:20,000 --> 00:08:24,000
+in which you need to specify all the sources, 
+
+101
+00:08:24,000 --> 00:08:29,000
+which you referred to in the text of the article.
+
+102
+00:08:29,000 --> 00:08:32,000
+You should be very careful again 
+
+103
+00:08:32,000 --> 00:08:36,000
+and follow the literature list requirements of the journal,
+
+104
+00:08:36,000 --> 00:08:41,000
+you submit your article for the publication to.
+
+105
+00:08:41,000 --> 00:08:44,000
+Thus, we have considered
+
+106
+00:08:44,000 --> 00:08:47,000
+the structure of an article today, 
+
+107
+00:08:47,000 --> 00:08:55,000
+and in the next lecture we will consider the process of working on a text.

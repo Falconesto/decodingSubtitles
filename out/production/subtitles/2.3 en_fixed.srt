@@ -1,0 +1,553 @@
+﻿1
+00:00:05,299 --> 00:00:07,990
+We continue talking about
+publications, and today
+
+2
+00:00:07,990 --> 00:00:11,510
+we will discuss how
+to write a research
+
+3
+00:00:11,510 --> 00:00:13,730
+article in English.
+
+4
+00:00:13,730 --> 00:00:18,710
+An article in English is similar
+to an engineering device,
+
+5
+00:00:18,710 --> 00:00:23,630
+which has a rigid structure
+and each part of it
+
+6
+00:00:23,630 --> 00:00:26,159
+has its own function.
+
+7
+00:00:26,159 --> 00:00:31,189
+It is important to note that the structural
+element of an article in English,
+
+8
+00:00:31,189 --> 00:00:34,499
+just like in Russian,
+is a paragraph.
+
+9
+00:00:34,499 --> 00:00:37,710
+It works in the same
+manner as in Russian –
+
+10
+00:00:37,710 --> 00:00:40,850
+one idea is
+one paragraph.
+
+11
+00:00:40,850 --> 00:00:45,280
+One paragraph contains an
+introduction that is followed by
+
+12
+00:00:45,280 --> 00:00:49,640
+informational sentences, which
+confirm the introduction and
+
+13
+00:00:49,640 --> 00:00:50,640
+present examples, and a
+closing phrase.
+
+14
+00:00:50,640 --> 00:00:55,039
+Sentences in English
+language should not be 
+
+15
+00:00:55,039 --> 00:00:59,120
+longer than 10-12 words,
+they should not be long.
+
+16
+00:00:59,120 --> 00:01:05,630
+If you are not an English
+native speaker, this
+
+17
+00:01:05,630 --> 00:01:10,190
+will help you, first of all,
+not to lose your idea, be
+
+18
+00:01:10,190 --> 00:01:11,550
+clear with what you want to say.
+
+19
+00:01:11,550 --> 00:01:15,070
+On the other hand, it will
+let you think of the reader
+
+20
+00:01:15,070 --> 00:01:17,160
+that you are writing for.
+
+21
+00:01:17,160 --> 00:01:22,720
+Clearly, nowadays English
+is a global language for the
+
+22
+00:01:22,720 --> 00:01:28,060
+whole international community of
+scientists and researchers,
+
+23
+00:01:28,060 --> 00:01:32,970
+this is why your publication may
+be read by a Chinese, Spaniard,
+
+24
+00:01:32,970 --> 00:01:39,120
+Frenchman, or Italian, and you
+should make sure that they can
+
+25
+00:01:39,120 --> 00:01:42,820
+understand your research
+and scientific results.
+
+26
+00:01:42,820 --> 00:01:49,600
+This is why your thought
+should be expressed accurately
+
+27
+00:01:49,600 --> 00:01:52,810
+and clearly in 10-12 words.
+
+28
+00:01:52,810 --> 00:01:57,920
+Now, we should discuss lexical
+and grammatical linguistic
+
+29
+00:01:57,920 --> 00:02:04,140
+means that will help
+you in writing
+
+30
+00:02:04,140 --> 00:02:06,710
+articles in English.
+
+31
+00:02:06,710 --> 00:02:09,730
+First of all,
+it is the voice.
+
+32
+00:02:09,730 --> 00:02:13,560
+Today there is a tendency in
+English for academic purposes
+
+33
+00:02:13,560 --> 00:02:19,720
+that suggests us to choose
+active voice instead
+
+34
+00:02:19,720 --> 00:02:21,560
+of passive one.
+
+35
+00:02:21,560 --> 00:02:27,190
+In fact,
+this enables
+
+36
+00:02:27,190 --> 00:02:32,420
+you to take responsibility
+for your research and
+
+37
+00:02:32,420 --> 00:02:37,750
+for the report
+that you
+
+38
+00:02:37,750 --> 00:02:40,620
+present in
+your publication.
+
+39
+00:02:40,620 --> 00:02:44,140
+To put it differently,
+active voice helps you to
+
+40
+00:02:44,140 --> 00:02:49,520
+claim that you are the author
+of this particular research.
+
+41
+00:02:49,520 --> 00:02:56,010
+It does not mean that you
+cannot or should not use
+
+42
+00:02:56,010 --> 00:02:57,890
+passive voice
+at all.
+
+43
+00:02:57,890 --> 00:03:02,340
+Passive voice is very
+useful in such chapters
+
+44
+00:03:02,340 --> 00:03:04,190
+as methods and results,
+where you present how
+
+45
+00:03:04,190 --> 00:03:09,670
+your experiment proceeded,
+and the findings
+
+46
+00:03:09,670 --> 00:03:11,450
+that you obtained.
+
+47
+00:03:11,450 --> 00:03:14,790
+Concerning
+tenses: 
+
+48
+00:03:14,790 --> 00:03:20,080
+their use in Academic
+English is limited.
+
+49
+00:03:20,080 --> 00:03:25,420
+As a rule, you use
+only five tenses:
+
+50
+00:03:25,420 --> 00:03:32,410
+present simple, past simple, present continuous,
+past continuous and present perfect.
+
+51
+00:03:32,410 --> 00:03:39,150
+Future simple is sometimes
+used as well, especially
+
+52
+00:03:39,150 --> 00:03:41,540
+in Conclusion chapter.
+
+53
+00:03:41,540 --> 00:03:49,340
+However, the meaning that
+future simple gives to a
+
+54
+00:03:49,340 --> 00:03:52,510
+statement is quite
+fuzzy and inexact.
+
+55
+00:03:52,510 --> 00:03:57,430
+This is why, other
+lexical and grammatical
+
+56
+00:03:57,430 --> 00:04:02,770
+constructs should be preferred to
+future simple when describing
+
+57
+00:04:02,770 --> 00:04:03,770
+your plans for the future.
+
+58
+00:04:03,770 --> 00:04:07,020
+As far as present perfect is
+concerned, you can use
+
+59
+00:04:07,020 --> 00:04:11,849
+this tense when you state
+what you have done, which
+
+60
+00:04:11,849 --> 00:04:15,930
+methods you have used, what
+results you have gained,
+
+61
+00:04:15,930 --> 00:04:20,420
+as well as in conclusion
+when you should present
+
+62
+00:04:20,420 --> 00:04:22,160
+your findings.
+
+63
+00:04:22,160 --> 00:04:25,439
+While working on an article
+text, reading it over 
+
+64
+00:04:25,439 --> 00:04:29,449
+and over again, you should get
+rid of all lexical items
+
+65
+00:04:29,449 --> 00:04:30,699
+that are frequently repeated.
+
+66
+00:04:30,699 --> 00:04:34,949
+You can highlight
+all repeating
+
+67
+00:04:34,949 --> 00:04:38,259
+words with a highlighter.
+
+68
+00:04:38,259 --> 00:04:41,610
+This way, firstly, you will
+understand how many
+
+69
+00:04:41,610 --> 00:04:42,909
+repetitions you have.
+
+70
+00:04:42,909 --> 00:04:50,990
+Secondly, you will find
+parts the text that need to
+
+71
+00:04:50,990 --> 00:04:54,979
+be rephrased and extra words
+that should be deleted.
+
+72
+00:04:54,979 --> 00:05:01,360
+I want to mention
+specifically frequent use of
+
+73
+00:05:01,360 --> 00:05:03,099
+“of” preposition by
+Russian native speakers.
+
+74
+00:05:03,099 --> 00:05:10,069
+Its active use is conditioned
+by our mother tongue, but in
+
+75
+00:05:10,069 --> 00:05:17,389
+order to make the text sound
+good in English, you should
+
+76
+00:05:17,389 --> 00:05:21,650
+use “of”
+rarely.
+
+77
+00:05:21,650 --> 00:05:26,219
+You can use a color highlighter
+again in order to find all
+
+78
+00:05:26,219 --> 00:05:30,830
+the phrases with “of”
+and check where you can
+
+79
+00:05:30,830 --> 00:05:34,089
+change it with a
+chains of nouns.
+
+80
+00:05:34,089 --> 00:05:38,550
+A chain of nouns is
+a phrase that contains
+
+81
+00:05:38,550 --> 00:05:42,110
+two-three-four nouns
+without prepositions.
+
+82
+00:05:42,110 --> 00:05:45,099
+It is often used
+in academic English,
+
+83
+00:05:45,099 --> 00:05:49,240
+and is a good substitution
+for preposition “of”.
+
+84
+00:05:49,240 --> 00:05:52,379
+ТI also want to note that
+the more you read
+
+85
+00:05:52,379 --> 00:05:54,009
+the better you write.
+
+86
+00:05:54,009 --> 00:05:59,249
+When you read articles in
+your scientific field, you learn
+
+87
+00:05:59,249 --> 00:06:03,659
+specific terms,
+to begin with.
+
+88
+00:06:03,659 --> 00:06:09,039
+Secondly, you see language
+patterns and phrases that
+
+89
+00:06:09,039 --> 00:06:13,029
+other authors use in their
+publications, and you can add
+
+90
+00:06:13,029 --> 00:06:15,559
+them to your works.
+
+91
+00:06:15,559 --> 00:06:16,909
+How to do it?
+
+92
+00:06:16,909 --> 00:06:20,919
+You should take two or
+three different highlighters;
+
+93
+00:06:20,919 --> 00:06:28,150
+Underline, for example, with
+pink all lexical items
+
+94
+00:06:28,150 --> 00:06:31,629
+and phrases that are you
+are familiar with, but you
+
+95
+00:06:31,629 --> 00:06:34,999
+forget to use them in
+your texts for some
+
+96
+00:06:34,999 --> 00:06:35,999
+reason.
+
+97
+00:06:35,999 --> 00:06:41,280
+Use yellow highlighter for the
+new words and phrases
+
+98
+00:06:41,280 --> 00:06:46,789
+that you would start
+use in your works.
+
+99
+00:06:46,789 --> 00:06:51,469
+And you can underline
+with blue all 
+
+100
+00:06:51,469 --> 00:06:52,960
+useful terms.
+
+101
+00:06:52,960 --> 00:06:58,559
+I think this can be very
+useful for your work on
+
+102
+00:06:58,559 --> 00:07:03,660
+the text and content
+of your article.
+
+103
+00:07:03,660 --> 00:07:08,490
+These are just common rules
+and recommendations for
+
+104
+00:07:08,490 --> 00:07:11,939
+writing articles in
+English.
+
+105
+00:07:11,939 --> 00:07:15,249
+However, the rules
+exist to be broken.
+
+106
+00:07:15,249 --> 00:07:18,759
+For example, subjunctive mood
+is not recommended to be
+
+107
+00:07:18,759 --> 00:07:23,289
+used in scientific articles,
+but if you want to write
+
+108
+00:07:23,289 --> 00:07:26,680
+about some results that
+you could potentially obtain,
+
+109
+00:07:26,680 --> 00:07:30,930
+but have not, you
+can use subjunctive
+
+110
+00:07:30,930 --> 00:07:31,930
+mood.
+
+111
+00:07:31,930 --> 00:07:35,630
+The important part here is that
+you and your reader should
+
+112
+00:07:35,630 --> 00:07:37,819
+understand why you do it.
+
+113
+00:07:37,819 --> 00:07:43,319
+You may find other recommendations
+on writing articles in English
+
+114
+00:07:43,319 --> 00:07:46,499
+in supplementary
+materials for
+
+115
+00:07:46,499 --> 00:07:46,519
+the course.
+

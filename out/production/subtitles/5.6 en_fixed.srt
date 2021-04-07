@@ -1,0 +1,963 @@
+﻿1
+00:00:05,000 --> 00:00:05,840
+Good afternoon!
+
+2
+00:00:05,960 --> 00:00:07,220
+My name is Yulia Manaeva.
+
+3
+00:00:07,220 --> 00:00:08,660
+I’m teaching a course
+
+4
+00:00:08,660 --> 00:00:09,780
+called Effective Team Management
+
+5
+00:00:09,780 --> 00:00:10,920
+at ITMO University.
+
+6
+00:00:11,040 --> 00:00:13,880
+Today we are going to discuss public speaking skills.
+
+7
+00:00:13,880 --> 00:00:17,500
+Right now you might have assumed
+
+8
+00:00:17,500 --> 00:00:19,720
+that you’ll encounter public speaking very rarely
+
+9
+00:00:19,720 --> 00:00:21,240
+or not at all in your career.
+
+10
+00:00:21,240 --> 00:00:22,260
+But that is not true,
+
+11
+00:00:22,260 --> 00:00:23,480
+because every time we are trying
+
+12
+00:00:23,480 --> 00:00:25,240
+to communicate an idea to a group of people,
+
+13
+00:00:25,240 --> 00:00:26,000
+we are actually taking a role
+
+14
+00:00:26,060 --> 00:00:27,040
+of a public speaker at that moment.
+
+15
+00:00:27,040 --> 00:00:29,600
+So, if at some point in the future
+
+16
+00:00:29,600 --> 00:00:30,740
+you are asked to say a toast
+
+17
+00:00:30,740 --> 00:00:31,740
+during your parents’ anniversary,
+
+18
+00:00:31,740 --> 00:00:35,120
+or to ask your employer for a raise,
+
+19
+00:00:35,120 --> 00:00:37,120
+you’ll have to rely
+
+20
+00:00:37,120 --> 00:00:39,120
+on your public speaking skills.
+
+21
+00:00:39,120 --> 00:00:42,140
+So, if you are doing a public talk,
+
+22
+00:00:42,140 --> 00:00:43,500
+how do you start preparing for it?
+
+23
+00:00:43,500 --> 00:00:44,560
+Do you start with listing the contents of your talk?
+
+24
+00:00:44,560 --> 00:00:45,280
+Actually, no.
+
+25
+00:00:45,280 --> 00:00:46,520
+No need to reach
+
+26
+00:00:46,520 --> 00:00:47,920
+for your laptops and notebooks for now.
+
+27
+00:00:47,920 --> 00:00:49,920
+Content of the talk is an important part,
+
+28
+00:00:49,920 --> 00:00:52,580
+but not the one to start your preparation with.
+
+29
+00:00:52,580 --> 00:00:54,180
+A good starting point
+
+30
+00:00:54,180 --> 00:00:56,180
+would be asking yourself: Why?
+
+31
+00:00:56,180 --> 00:00:58,180
+Why am I giving this talk?
+
+32
+00:00:58,180 --> 00:01:00,820
+What will change after it?
+
+33
+00:01:00,820 --> 00:01:02,220
+? In other words:
+
+34
+00:01:02,220 --> 00:01:04,220
+What goal am I trying to achieve with this talk?
+
+35
+00:01:04,220 --> 00:01:05,640
+An answer to this question
+
+36
+00:01:05,640 --> 00:01:08,160
+will help you to choose the style of your talk.
+
+37
+00:01:08,160 --> 00:01:10,160
+There are a lot of different styles,
+
+38
+00:01:10,160 --> 00:01:12,160
+but I’m going to focus on just one of them.
+
+39
+00:01:12,160 --> 00:01:15,360
+For example, there are motivational talks
+
+40
+00:01:15,500 --> 00:01:17,120
+and exposing talks
+
+41
+00:01:17,120 --> 00:01:19,580
+which are politicians’ favorite genre.
+
+42
+00:01:19,580 --> 00:01:23,620
+There're manifestos with philosophical postulates,
+
+43
+00:01:23,620 --> 00:01:26,100
+gratitude speeches, ceremonial speeches,
+
+44
+00:01:26,100 --> 00:01:28,740
+that, for example, may serve as entertainment
+
+45
+00:01:28,740 --> 00:01:30,080
+if spoken at a party.
+
+46
+00:01:30,080 --> 00:01:32,420
+At last, there is a persuasive speech
+
+47
+00:01:32,420 --> 00:01:35,360
+and its goal is to fully convince listeners
+
+48
+00:01:35,360 --> 00:01:39,300
+with your thesis.
+
+49
+00:01:39,920 --> 00:01:42,980
+But don’t make the mistake
+
+50
+00:01:43,120 --> 00:01:45,000
+of making just an informing speech.
+
+51
+00:01:45,000 --> 00:01:47,240
+There are a lot of information sources
+
+52
+00:01:47,240 --> 00:01:48,780
+surrounding us nowadays,
+
+53
+00:01:48,780 --> 00:01:51,280
+Attending a talk just to get information
+
+54
+00:01:51,280 --> 00:01:54,520
+is not a very effective way to get some information.
+
+55
+00:01:54,520 --> 00:01:56,520
+That’s why you have to make it
+
+56
+00:01:56,520 --> 00:01:58,080
+a bit more difficult for yourself
+
+57
+00:01:58,160 --> 00:02:02,200
+by setting a goal of getting at least some people
+
+58
+00:02:02,200 --> 00:02:05,080
+to read more about the topic on their own
+
+59
+00:02:05,080 --> 00:02:08,780
+after listening to your speech.
+
+60
+00:02:08,900 --> 00:02:11,220
+Or as an alternative you can show
+
+61
+00:02:11,220 --> 00:02:13,520
+how a very difficult topic can be structured
+
+62
+00:02:13,520 --> 00:02:14,880
+and distilled to its core,
+
+63
+00:02:14,880 --> 00:02:19,160
+so that it becomes accessible to an untrained listener.
+
+64
+00:02:19,160 --> 00:02:21,880
+In other words, if you select the right goal,
+
+65
+00:02:21,880 --> 00:02:23,880
+your speech will be powerful
+
+66
+00:02:23,880 --> 00:02:25,780
+and will have a direction,
+
+67
+00:02:25,780 --> 00:02:27,780
+and these are the most important things
+
+68
+00:02:27,780 --> 00:02:28,860
+for a public speaker!
+
+69
+00:02:28,860 --> 00:02:31,140
+Well, now you know the goal of your speech!
+
+70
+00:02:31,140 --> 00:02:32,760
+But that is still not enough
+
+71
+00:02:32,760 --> 00:02:34,260
+to go to the contents.
+
+72
+00:02:34,260 --> 00:02:35,240
+The next question
+
+73
+00:02:35,240 --> 00:02:36,580
+you have to answer is: Who?
+
+74
+00:02:36,580 --> 00:02:37,980
+Who are the people
+
+75
+00:02:37,980 --> 00:02:40,180
+that will be listening to you tomorrow
+
+76
+00:02:40,180 --> 00:02:41,920
+or in the next few days?
+
+77
+00:02:41,920 --> 00:02:43,920
+It is good to know your audience’s
+
+78
+00:02:43,920 --> 00:02:46,280
+average age and profession
+
+79
+00:02:46,280 --> 00:02:47,800
+as well as to what extent
+
+80
+00:02:47,800 --> 00:02:49,800
+they are proficient in your topic
+
+81
+00:02:49,800 --> 00:02:52,460
+and the level of their interest in you as a speaker.
+
+82
+00:02:52,460 --> 00:02:54,220
+You need to take into account
+
+83
+00:02:54,220 --> 00:02:56,620
+historical, national and ethnic details.
+
+84
+00:02:56,620 --> 00:02:58,620
+In order to make sure that the jokes
+
+85
+00:02:58,620 --> 00:03:00,620
+you have chosen and the events
+
+86
+00:03:00,620 --> 00:03:01,960
+events you are going to mention
+
+87
+00:03:01,960 --> 00:03:03,960
+would be perceived adequately.
+
+88
+00:03:03,960 --> 00:03:05,960
+It is also nice to know
+
+89
+00:03:05,960 --> 00:03:06,680
+the time of the day
+
+90
+00:03:06,800 --> 00:03:07,920
+when your speech is scheduled.
+
+91
+00:03:07,920 --> 00:03:09,660
+Because the audience in the morning
+
+92
+00:03:09,660 --> 00:03:13,240
+or after a hearty lunch, or tired audience
+
+93
+00:03:13,240 --> 00:03:15,240
+in the very end of a business event
+
+94
+00:03:15,240 --> 00:03:17,540
+are three different audiences.
+
+95
+00:03:17,540 --> 00:03:20,620
+However, you need to make sure
+
+96
+00:03:20,620 --> 00:03:22,620
+you do everything to switch the audience’s attention
+
+97
+00:03:22,620 --> 00:03:24,800
+from their inner processes to you.
+
+98
+00:03:24,800 --> 00:03:27,100
+So, now you know the purpose
+
+99
+00:03:27,100 --> 00:03:29,360
+of your presentation and your audience.
+
+100
+00:03:29,360 --> 00:03:32,300
+And we finally proceed to the content.
+
+101
+00:03:32,300 --> 00:03:34,840
+I do not recommend writing your speech
+
+102
+00:03:34,840 --> 00:03:36,840
+sentence after sentence.
+
+103
+00:03:36,840 --> 00:03:38,840
+First of all, because the written speech
+
+104
+00:03:38,840 --> 00:03:41,120
+is always different from oral.
+
+105
+00:03:41,120 --> 00:03:43,540
+It is a real torture to listen to a lecture
+
+106
+00:03:43,540 --> 00:03:46,240
+of a professor who reads aloud a book
+
+107
+00:03:46,240 --> 00:03:48,240
+instead of retelling the material with his own words.
+
+108
+00:03:48,240 --> 00:03:50,240
+No matter how wonderful are the citations
+
+109
+00:03:50,240 --> 00:03:51,760
+you’ve chosen, what allegories
+
+110
+00:03:51,760 --> 00:03:53,240
+and metaphors you’ve found,
+
+111
+00:03:53,240 --> 00:03:54,620
+there is a high probability
+
+112
+00:03:54,620 --> 00:03:58,040
+that you will be too nervous and forget all of them.
+
+113
+00:03:58,040 --> 00:04:00,320
+In this case it is more important to remember
+
+114
+00:04:00,320 --> 00:04:03,000
+the structure of your talk,
+
+115
+00:04:03,000 --> 00:04:06,940
+know the main points that must be mentioned.
+
+116
+00:04:06,940 --> 00:04:09,440
+You should understand what sequence of ideas
+
+117
+00:04:09,440 --> 00:04:13,000
+will bring you to your speech’s goal.
+
+118
+00:04:13,000 --> 00:04:15,340
+If you still opt for writing your speech
+
+119
+00:04:15,340 --> 00:04:16,980
+sentence after sentence,
+
+120
+00:04:16,980 --> 00:04:19,240
+make sure that the phrases you use are simple.
+
+121
+00:04:19,240 --> 00:04:23,300
+Do not overload your sentences with participles.
+
+122
+00:04:23,300 --> 00:04:28,420
+They are hard to be spoken and understood.
+
+123
+00:04:28,420 --> 00:04:31,500
+Make sure you have an introduction,
+
+124
+00:04:31,500 --> 00:04:33,500
+main part and conclusion
+
+125
+00:04:33,500 --> 00:04:35,500
+when you have finished your talk’s draft.
+
+126
+00:04:35,500 --> 00:04:38,040
+Introduction is the very chance
+
+127
+00:04:38,040 --> 00:04:39,240
+to make a first impression
+
+128
+00:04:39,240 --> 00:04:41,240
+that is not provided to us twice.
+
+129
+00:04:41,240 --> 00:04:43,240
+That means your start should be bright,
+
+130
+00:04:43,240 --> 00:04:45,240
+confident and dynamic.
+
+131
+00:04:45,240 --> 00:04:47,660
+Look at the most prominent speakers of our time.
+
+132
+00:04:47,660 --> 00:04:49,660
+What tools do they use in order
+
+133
+00:04:49,660 --> 00:04:51,660
+to concentrate the attention on themselves?
+
+134
+00:04:51,660 --> 00:04:56,320
+You could start with a rhetoric or practical question
+
+135
+00:04:56,320 --> 00:04:58,820
+that opens a dialog with your audience.
+
+136
+00:04:58,820 --> 00:05:01,240
+For example, “Who has ever snoozed
+
+137
+00:05:01,240 --> 00:05:03,240
+their alarm clock in order to have
+
+138
+00:05:03,240 --> 00:05:05,240
+another five more minutes before finally waking up?”
+
+139
+00:05:05,240 --> 00:05:07,800
+Another good approach is using statistics.
+
+140
+00:05:07,800 --> 00:05:09,800
+The numbers always attract attention.
+
+141
+00:05:09,800 --> 00:05:12,140
+For example, 85% of managers confess
+
+142
+00:05:12,140 --> 00:05:15,580
+they feel lonely at work.
+
+143
+00:05:15,580 --> 00:05:18,440
+The technique, by the way, can be strengthened
+
+144
+00:05:18,440 --> 00:05:22,280
+by making the audience you story’s objects.
+
+145
+00:05:22,280 --> 00:05:24,760
+In this case you can formulate the phrase like this:
+
+146
+00:05:24,760 --> 00:05:26,980
+according to the Health Association
+
+147
+00:05:26,980 --> 00:05:29,960
+every fourth person in this room suffers from insomnia.
+
+148
+00:05:29,960 --> 00:05:32,260
+You will feel the change
+
+149
+00:05:32,260 --> 00:05:33,620
+in your audience’s energy instantly.
+
+150
+00:05:33,620 --> 00:05:35,620
+Because the majority of your listeners
+
+151
+00:05:35,620 --> 00:05:39,600
+is now really interested in what you are talking about.
+
+152
+00:05:39,600 --> 00:05:44,600
+Different jokes, parables and life stories
+
+153
+00:05:44,600 --> 00:05:48,120
+also suitable if they take you to your speech’s goal.
+
+154
+00:05:48,120 --> 00:05:49,700
+You can start with self-presentation
+
+155
+00:05:49,700 --> 00:05:51,700
+if your personality or professional area
+
+156
+00:05:51,700 --> 00:05:54,780
+are connected to your topic.
+
+157
+00:05:54,780 --> 00:05:56,780
+You can make a promise,
+
+158
+00:05:56,780 --> 00:05:58,340
+thereby intriguing the public
+
+159
+00:05:58,340 --> 00:06:00,340
+Promising to take everyone
+
+160
+00:06:00,340 --> 00:06:02,620
+from point A to point B.
+
+161
+00:06:02,620 --> 00:06:04,620
+The media sources are also suitable.
+
+162
+00:06:04,620 --> 00:06:07,240
+For example, movie clips, documentaries,
+
+163
+00:06:07,240 --> 00:06:10,340
+audios that you could demonstrate
+
+164
+00:06:10,340 --> 00:06:12,340
+without making any comments.
+
+165
+00:06:12,340 --> 00:06:14,860
+This will give more tension
+
+166
+00:06:14,860 --> 00:06:16,860
+to what happens on the stage.
+
+167
+00:06:16,860 --> 00:06:18,360
+So now that you are sure
+
+168
+00:06:18,360 --> 00:06:19,840
+all the attention is yours,
+
+169
+00:06:19,840 --> 00:06:22,420
+you can proceed to the main part of your talk.
+
+170
+00:06:22,420 --> 00:06:24,420
+This is the part that allows you
+
+171
+00:06:24,420 --> 00:06:27,000
+to deeply study each thesis and argument
+
+172
+00:06:27,000 --> 00:06:28,840
+that you have prepared.
+
+173
+00:06:28,840 --> 00:06:31,400
+If this is a convincing speech,
+
+174
+00:06:31,400 --> 00:06:34,420
+the specialists suggest to distribute the arguments
+
+175
+00:06:34,420 --> 00:06:37,020
+supporting your main thesis as follows:
+
+176
+00:06:37,020 --> 00:06:40,780
+Start with a bright and strong argument
+
+177
+00:06:40,780 --> 00:06:42,780
+that would drag the audience’s attention.
+
+178
+00:06:42,780 --> 00:06:44,780
+The second argument could be a bit weaker,
+
+179
+00:06:44,780 --> 00:06:45,560
+as if it is said in order
+
+180
+00:06:45,560 --> 00:06:46,880
+to make the quantity of arguments larger.
+
+181
+00:06:46,880 --> 00:06:47,920
+And the third one should be
+
+182
+00:06:47,920 --> 00:06:51,420
+a very strong and emotional one,
+
+183
+00:06:51,600 --> 00:06:53,340
+the one that would prepare your audience
+
+184
+00:06:53,420 --> 00:06:54,460
+to the culmination of your speech.
+
+185
+00:06:54,460 --> 00:06:56,460
+There, by the way, you can summarize
+
+186
+00:06:56,460 --> 00:06:59,500
+all the arguments and formulate
+
+187
+00:06:59,500 --> 00:07:01,080
+your key idea once again.
+
+188
+00:07:01,080 --> 00:07:03,080
+You should do it as bright and strong
+
+189
+00:07:03,080 --> 00:07:05,080
+as possible for your listeners to remember it.
+
+190
+00:07:05,080 --> 00:07:07,520
+Then you can proceed to the conclusion.
+
+191
+00:07:07,520 --> 00:07:09,100
+The conclusion is as important
+
+192
+00:07:09,220 --> 00:07:10,620
+as the introduction.
+
+193
+00:07:10,620 --> 00:07:12,620
+After all, the aftertaste
+
+194
+00:07:12,620 --> 00:07:13,820
+that will remain with the audience
+
+195
+00:07:13,820 --> 00:07:15,180
+after you leave the stage depends
+
+196
+00:07:15,180 --> 00:07:16,860
+on how you finish your talk.
+
+197
+00:07:16,860 --> 00:07:18,860
+Many methods of completing a speech
+
+198
+00:07:18,860 --> 00:07:21,040
+mirror those techniques
+
+199
+00:07:21,040 --> 00:07:22,720
+that we spoke about in the introduction.
+
+200
+00:07:22,720 --> 00:07:24,720
+You can ask your audience a question
+
+201
+00:07:24,720 --> 00:07:27,440
+that they would reflect on alone.
+
+202
+00:07:27,440 --> 00:07:29,440
+You can also finish your speech with a joke,
+
+203
+00:07:29,440 --> 00:07:32,760
+real life story, call to action, promise,
+
+204
+00:07:32,760 --> 00:07:34,760
+conclusion or morality.
+
+205
+00:07:34,760 --> 00:07:36,760
+Media sources would do as well
+
+206
+00:07:36,760 --> 00:07:40,420
+a video game excerpt, an audio, documentary
+
+207
+00:07:40,420 --> 00:07:43,600
+or a movie scene that illustrates
+
+208
+00:07:43,600 --> 00:07:46,480
+what has just been said on a stage.
+
+209
+00:07:46,480 --> 00:07:49,100
+Well, looks like we have done
+
+210
+00:07:49,100 --> 00:07:51,100
+preparing for a public talk.
+
+211
+00:07:51,100 --> 00:07:53,100
+One important stage is left.
+
+212
+00:07:53,100 --> 00:07:54,520
+And this is a rehearsal!
+
+213
+00:07:54,520 --> 00:07:56,580
+Find someone to listen to you.
+
+214
+00:07:56,580 --> 00:07:58,240
+A person who is ready to tell you
+
+215
+00:07:58,240 --> 00:08:01,340
+a tactful and true feedback about how you give a talk.
+
+216
+00:08:01,340 --> 00:08:03,340
+It would be good if you manage
+
+217
+00:08:03,340 --> 00:08:06,060
+to model at least minimal degree of worry,
+
+218
+00:08:06,060 --> 00:08:09,220
+which soon you will be feeling on the stage for real.
+
+219
+00:08:09,220 --> 00:08:10,640
+Why?
+
+220
+00:08:10,640 --> 00:08:12,640
+The thing is, that, being overwhelmed
+
+221
+00:08:12,640 --> 00:08:13,880
+by our feelings and emotions,
+
+222
+00:08:13,880 --> 00:08:15,880
+we tend to change the way we speak
+
+223
+00:08:15,880 --> 00:08:17,040
+and instead of using those beautiful citations,
+
+224
+00:08:17,140 --> 00:08:18,140
+allegories and methaphors
+
+225
+00:08:18,140 --> 00:08:20,460
+we start to use filler words, awkward silence,
+
+226
+00:08:20,460 --> 00:08:24,660
+clumsily filled pauses and the “Ehhh”.
+
+227
+00:08:24,660 --> 00:08:26,520
+You need to know your enemy
+
+228
+00:08:26,520 --> 00:08:28,520
+in order to not let it happen!
+
+229
+00:08:28,520 --> 00:08:30,220
+When you have information
+
+230
+00:08:30,220 --> 00:08:32,300
+about which repetitions you tend to have,
+
+231
+00:08:32,300 --> 00:08:34,300
+what filler words you use mostly,
+
+232
+00:08:34,300 --> 00:08:36,680
+you will be able to pre-select the necessary phrases,
+
+233
+00:08:36,680 --> 00:08:39,720
+lexical chunks and syntactic tricks,
+
+234
+00:08:39,720 --> 00:08:42,260
+in order to hide the moments when the right word
+
+235
+00:08:42,260 --> 00:08:44,260
+is not in your memory.
+
+236
+00:08:44,260 --> 00:08:46,260
+With this the preparation
+
+237
+00:08:46,260 --> 00:08:49,800
+for the verbal part of your speech is done.
+
+238
+00:08:49,800 --> 00:08:52,100
+Still, there are some non-verbal aspects.
+
+239
+00:08:52,100 --> 00:08:53,720
+We are going to talk about them
+
+240
+00:08:53,720 --> 00:08:54,640
+in the next lecture.
+
+241
+00:08:54,640 --> 00:08:56,640
+See you soon!

@@ -1,0 +1,387 @@
+1
+00:00:05,000 --> 00:00:08,400
+Hello, my name is Anton Gopka.
+
+2
+00:00:08,400 --> 00:00:13,000
+I am the Dean of Faculty of Technological Management and Innovations at ITMO.
+
+3
+00:00:13,000 --> 00:00:17,000
+Today we will discuss commercialization of innovations and
+
+4
+00:00:17,000 --> 00:00:21,300
+results of your intellectual activity.
+
+5
+00:00:21,300 --> 00:00:30,900
+In the beginning, I would like to say that, unfortunately, in your career you would always have to make decisions.
+
+6
+00:00:30,900 --> 00:00:34,900
+You have to choose what you are going to do in your life.
+
+7
+00:00:34,900 --> 00:00:40,400
+If you do intellectual activity, you may have many roles.
+
+8
+00:00:40,400 --> 00:00:47,000
+However, on a basic level you should distinguish between two paths:
+
+9
+00:00:47,000 --> 00:00:52,200
+either you are a researcher, or you do commercialization, and hence you are an entrepreneur or an investor,
+
+10
+00:00:52,200 --> 00:00:59,400
+and it is completely different set of roles and a different business.
+
+11
+00:00:59,400 --> 00:01:05,200
+This is why, unfortunately, so many people just cannot sort themselves out or,
+
+12
+00:01:05,200 --> 00:01:10,400
+if we speak about the researchers, cannot find those teams that they would trust to commercialize,
+
+13
+00:01:10,400 --> 00:01:17,600
+finalize, and launch their inventions and results of their research on the market.
+
+14
+00:01:17,600 --> 00:01:23,500
+So you as a researcher can be directly involved for decades in, say, one mechanism of action,
+
+15
+00:01:23,500 --> 00:01:29,600
+one phenomenon, and be the best researcher in the world.
+
+16
+00:01:29,600 --> 00:01:34,800
+If you are lucky and you make some big discovery, you get awards,
+
+17
+00:01:34,801 --> 00:01:41,400
+you do publications, that is the essence of your activity and what you do.
+
+18
+00:01:41,400 --> 00:01:47,100
+And when we, as investors, search for scientific consultants who would help us to understand the project,
+
+19
+00:01:47,100 --> 00:01:53,200
+we search for not just a person, but the one who devoted 10-20 years
+
+20
+00:01:53,200 --> 00:01:57,800
+to this or that mechanism of action, this is who we look for.
+
+21
+00:01:57,800 --> 00:02:03,700
+Because this very person has comprehensive and solid information
+
+22
+00:02:03,700 --> 00:02:08,100
+about the project or the invention that we consider.
+
+23
+00:02:08,100 --> 00:02:16,800
+But if you are not ready to spend 10-20 years on one invention or one research,
+
+24
+00:02:16,800 --> 00:02:23,300
+and you have decided to do commercialization, you should understand that you will have to sacrifice
+
+25
+00:02:23,300 --> 00:02:32,500
+most part of your scientific career, and you will be very unlikely to combine career
+
+26
+00:02:32,500 --> 00:02:40,000
+as a real scientist and a professional entrepreneur at the same time.
+
+27
+00:02:40,000 --> 00:02:44,900
+Because an entrepreneur does different things, such as raising funds, building the strategy,
+
+28
+00:02:44,900 --> 00:02:51,700
+gathering a team that will later do the development, usually very basic development,
+
+29
+00:02:51,700 --> 00:02:59,500
+then will launch the invention to the market, possibly trading-off quality from the scientific point of view,
+
+30
+00:02:59,500 --> 00:03:06,300
+because they are interested in something different.
+
+31
+00:03:06,300 --> 00:03:08,800
+They make sure that the project will satisfy some need.
+
+32
+00:03:08,800 --> 00:03:17,200
+And when it enters the market, and this need is tested and proved, it is you, who will have to do some improvements, amendments, and so on.
+
+33
+00:03:17,200 --> 00:03:24,200
+In fact, every career has its advantages and pitfalls. Meaning, if you are a scientist, you might feel uncomfortable to search for money,
+
+34
+00:03:24,200 --> 00:03:29,800
+or complete the abovementioned complicated and boring tasks, like gathering a team and so on.
+
+35
+00:03:29,800 --> 00:03:36,600
+It actually might be just very uncomfortable for you, and the point is not only about you being incompetent in this, it is just not your cup of tea.
+
+36
+00:03:36,600 --> 00:03:42,400
+And you should understand this, and value what you do and be happy.
+
+37
+00:03:42,400 --> 00:03:49,100
+On the other hand, even if you are a researcher,
+
+38
+00:03:49,200 --> 00:03:56,600
+you always want to know whether what you do has some practical application in industry, you often need to know this.
+
+39
+00:03:56,600 --> 00:04:03,700
+And of course, commercializers, people who do commercialization, or entrepreneurs are constantly looking for such products.
+
+40
+00:04:03,700 --> 00:04:08,400
+I call this process innovation archeology, such an oxymoron.
+
+41
+00:04:08,400 --> 00:04:11,600
+Archeology on the one hand, and innovations on the other.
+
+42
+00:04:11,600 --> 00:04:20,500
+For example, you are a researcher, and you sit in your lab, and you dig and grub, and discover some piece of something.
+
+43
+00:04:20,500 --> 00:04:26,300
+And what it could be used for is absolutely unknown.
+
+44
+00:04:26,300 --> 00:04:31,100
+Maybe it’s some kind of an ancient vase, or, for example, part of an animal,
+
+45
+00:04:31,100 --> 00:04:40,300
+or maybe some other weird object, some new material, maybe something else.
+
+46
+00:04:40,300 --> 00:04:47,300
+And you completely don’t know what it might be, because often you see a part, but you don’t see the whole picture.
+
+47
+00:04:47,300 --> 00:04:54,100
+And, unfortunately, if you are a professional scientist, as a rule, you constantly are in one and same information stream,
+
+48
+00:04:54,100 --> 00:05:01,900
+while you actually need to get into some different information stream.
+
+49
+00:05:01,900 --> 00:05:05,500
+while you actually need to get into some different information stream.
+
+50
+00:05:05,500 --> 00:05:12,600
+and also with those who work in your sector.
+
+51
+00:05:12,600 --> 00:05:20,000
+Often these are angel investors, venture capital funds and industries, industrial partners.
+
+52
+00:05:20,000 --> 00:05:30,200
+Thus, I strongly recommend you to establish contacts with these people, because they might come to you and say:
+
+53
+00:05:30,200 --> 00:05:37,200
+“The thing you have discovered is clearly a means to detect cancer at an early stage”,
+
+54
+00:05:37,200 --> 00:05:42,600
+or it has some element that could be used in solar energetics, or it can be used, for example,
+
+55
+00:05:42,600 --> 00:05:50,200
+to test food quality or in agriculture, and so forth.
+
+56
+00:05:50,200 --> 00:05:58,500
+So, each person who will come to you is in his or her informational stream, and will listen to you describing your interesting invention,
+
+57
+00:05:58,500 --> 00:06:09,000
+or some new material that reflects or absorbs light differently, or some strange and unusual thing,
+
+58
+00:06:09,000 --> 00:06:17,600
+and from his or her perspective will unexpectedly tell you that it can be used as internet of things, as a sensor that can monitor, let’s say, failure of railcars.
+
+59
+00:06:17,600 --> 00:06:25,000
+This communication is very important. If we speak about such countries as the USA, for example, I have this experience:
+
+60
+00:06:25,000 --> 00:06:33,800
+regularly I went to the cafeteria in MIT and met scientists there, we had lunch or dinner together,
+
+61
+00:06:33,800 --> 00:06:40,800
+and discussed their recent inventions, their ideas, and it was very valuable and striking communication.
+
+62
+00:06:40,800 --> 00:06:49,800
+Of course, you can organize some workshops, meet-ups, all these words, actually all these meetings are about innovation archeology.
+
+63
+00:06:49,800 --> 00:06:58,000
+So, if you understood that your invention makes sense and has chances to be commercialized,
+
+64
+00:06:58,000 --> 00:07:01,200
+it is high time to meet investors.
+
+65
+00:07:01,200 --> 00:07:08,000
+As a rule, investors are very smart people, competent in industry and your technology, if we are talking about professional investors.
+
+66
+00:07:08,000 --> 00:07:13,200
+Of course, they are not as competent as scientists are, but they can excellently understand
+
+67
+00:07:13,200 --> 00:07:19,500
+whether your invention has any value or not.
+
+68
+00:07:19,500 --> 00:07:24,200
+The investors are highly professional and experienced.
+
+69
+00:07:24,200 --> 00:07:32,100
+They have seen thousands of projects, thousands of businesses that have unfortunately failed, but they have also seen success stories,
+
+70
+00:07:32,100 --> 00:07:43,000
+and as a rule, they have clear understanding of the topics that they would invest in, the investment topic.
+
+71
+00:07:43,000 --> 00:07:52,300
+The investment topic is, as a rule, a clear description of risks that they deal with in every project.
+
+72
+00:07:52,300 --> 00:07:58,100
+And if you plan to turn to investors, I recommend you to check their websites in advance,
+
+73
+00:07:58,100 --> 00:08:04,400
+and read their usual investment criteria.
+
+74
+00:08:04,400 --> 00:08:15,600
+Generally speaking, in a nutshell, it is a list of risks that they are ready to take in this or that topic.
+
+75
+00:08:15,600 --> 00:08:21,000
+For example, if we are talking about early-stage projects, as a rule, they have very high technological risks.
+
+76
+00:08:21,000 --> 00:08:29,400
+This requires compromise. If technological risks are very high,
+
+77
+00:08:29,400 --> 00:08:37,000
+the invention should transform the whole sector and be widely applicable. For instance, it might be some kind of technological platform.
+
+78
+00:08:37,000 --> 00:08:43,100
+If we are talking about an invention that would not, unfortunately, transform the sector, won’t change anything,
+
+79
+00:08:43,100 --> 00:08:50,900
+but solves some narrow and specific problem, the technical risk should be minimal, or better should not exist at all.
+
+80
+00:08:50,900 --> 00:08:56,500
+This technology should be well thought, proved; many articles should be devoted to it,
+
+81
+00:08:56,500 --> 00:09:03,300
+everything should be clear, and in this case, such compromise is possible.
+
+82
+00:09:03,300 --> 00:09:11,500
+You should understand these compromises very well, and understand what type of invention you have,
+
+83
+00:09:11,500 --> 00:09:16,000
+and if you plan to work with investors, you should find those, who are interested in what you do.
+
+84
+00:09:16,000 --> 00:09:22,500
+I strongly warn you against presenting your projects to those, who do not work with your topics,
+
+85
+00:09:22,500 --> 00:09:29,100
+you should not try to re-position your invention or pretend that it meets their interests if it does not,
+
+86
+00:09:29,100 --> 00:09:33,100
+or present your project as a mature one if it is actually at early stage.
+
+87
+00:09:33,100 --> 00:09:40,200
+It can be checked easily, and any serious investor always checks projects with other scientists,
+
+88
+00:09:40,200 --> 00:09:47,300
+and if you made such mistake, you are unlikely to build any long-term relationships in the future.
+
+89
+00:09:47,300 --> 00:09:53,000
+Thus, before trying to commercialize something I recommend you to decide explicitly
+
+90
+00:09:53,000 --> 00:09:58,300
+whether you want to be a researcher or commercializer, an entrepreneur.
+
+91
+00:09:58,300 --> 00:10:06,100
+In addition, regardless your decision, I strongly recommend you to build the network of contacts
+
+92
+00:10:06,100 --> 00:10:11,700
+that will help you to understand whether you generally can commercialize your idea or invention, or not.
+
+93
+00:10:11,700 --> 00:10:23,600
+And finally, in any role you may become a co-founder of a project, or a company, or a business.
+
+94
+00:10:23,600 --> 00:10:31,900
+You should make a list of investors who would consider your invention as relevant
+
+95
+00:10:31,900 --> 00:10:38,700
+and meet them one after another, send emails, contact them, but this is already a role of entrepreneur.
+
+96
+00:10:38,700 --> 00:10:40,100
+Thank you.
+
+97
+00:10:40,100 --> 00:10:45,499
+In the next lecture I will tell you what investors expect, and what they want to hear.

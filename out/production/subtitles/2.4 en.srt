@@ -1,0 +1,701 @@
+﻿1
+00:00:00,120 --> 00:00:01,120
+Hello!
+
+2
+00:00:01,120 --> 00:00:02,120
+My name is Oleg Borisov.
+
+3
+00:00:02,120 --> 00:00:05,299
+In previous lectures, my colleague
+Inna Anokhina discussed
+
+4
+00:00:05,299 --> 00:00:08,951
+what publications are, their
+structure and the rules of
+
+5
+00:00:08,951 --> 00:00:09,951
+writing articles.
+
+6
+00:00:09,951 --> 00:00:13,410
+In this and following
+lectures, you will learn about
+
+7
+00:00:13,410 --> 00:00:16,950
+a very convenient
+tool for preparing articles –
+
+8
+00:00:16,950 --> 00:00:17,950
+the LaTeX publishing
+system.
+
+9
+00:00:17,950 --> 00:00:20,360
+I will speak about the principles of
+working with this system, the main concepts
+
+10
+00:00:20,360 --> 00:00:22,780
+and the structure of the source files.
+
+11
+00:00:22,780 --> 00:00:24,980
+The basis of this tool is
+the TeX desktop
+
+12
+00:00:24,980 --> 00:00:28,920
+publishing system, created by American
+mathematician and software
+
+13
+00:00:28,920 --> 00:00:32,119
+engineer Donald
+Knuth for typesetting of
+
+14
+00:00:32,119 --> 00:00:33,230
+texts with mathematical
+formulas.
+
+15
+00:00:33,230 --> 00:00:37,559
+Later on, another American scientist
+Leslie Lamport developed
+
+16
+00:00:37,559 --> 00:00:41,010
+his own macro-
+definition package based on
+
+17
+00:00:41,010 --> 00:00:43,109
+this system and
+named it LaTeX.
+
+18
+00:00:43,109 --> 00:00:44,980
+This macro-definition package is
+
+19
+00:00:44,980 --> 00:00:45,980
+still popular.
+
+20
+00:00:45,980 --> 00:00:48,809
+To start working with the LaTeX 
+system you will need
+
+21
+00:00:48,809 --> 00:00:53,140
+to install three components onto your
+computer. The first component is the
+
+22
+00:00:53,140 --> 00:00:55,569
+TeX distribution corresponding
+to the operating system (notably,
+
+23
+00:00:55,569 --> 00:00:58,640
+the cross-platform nature
+of this tool is
+
+24
+00:00:58,640 --> 00:01:02,499
+its undoubted advantage);
+The second is the LaTeX
+
+25
+00:01:02,499 --> 00:01:05,770
+file editor (Although you can
+work with files in any text
+
+26
+00:01:05,770 --> 00:01:09,410
+editor, it is convenient
+to use special programs
+
+27
+00:01:09,410 --> 00:01:12,350
+with syntax
+highlighting provided)
+
+28
+00:01:12,350 --> 00:01:17,460
+the final component - is to install
+a program for viewing PDF files.
+
+29
+00:01:17,460 --> 00:01:20,400
+Now a couple of words about the
+principle of working with the system.
+
+30
+00:01:20,400 --> 00:01:22,580
+There are well-known
+editors of the
+
+31
+00:01:22,580 --> 00:01:25,440
+“get what I see” type, in which the
+process of preparing the document
+
+32
+00:01:25,440 --> 00:01:29,570
+involves working directly
+with the final file. For example,
+
+33
+00:01:29,570 --> 00:01:32,850
+editing is performed in parallel
+with viewing the result.
+
+34
+00:01:32,850 --> 00:01:37,290
+In the LaTeX system, working with a
+document (its source file)
+
+35
+00:01:37,290 --> 00:01:41,130
+and viewing the final
+file are two different
+
+36
+00:01:41,130 --> 00:01:43,930
+operations, performed sequentially.
+
+37
+00:01:43,930 --> 00:01:46,200
+First, the source file
+is compiled in tex format.
+
+38
+00:01:46,200 --> 00:01:49,530
+It includes the content of the
+document, as well as
+
+39
+00:01:49,530 --> 00:01:52,320
+the command set that
+define how the text
+
+40
+00:01:52,320 --> 00:01:53,530
+should look like.
+
+41
+00:01:53,530 --> 00:01:56,110
+After compilation, the file
+of the final document is
+
+42
+00:01:56,110 --> 00:01:59,720
+generated in PDF format with
+the required formatting.
+
+43
+00:01:59,720 --> 00:02:03,480
+On the one hand, this principle
+will require initial training,
+
+44
+00:02:03,480 --> 00:02:05,890
+as it involves prior knowledge 
+of the commands and possession
+
+45
+00:02:05,890 --> 00:02:09,030
+ofsystem syntax, but
+on the other hand, it
+
+46
+00:02:09,030 --> 00:02:12,650
+significantly speeds up
+the layout process.
+
+47
+00:02:12,650 --> 00:02:15,319
+Next, let us consider
+what the source
+
+48
+00:02:15,319 --> 00:02:16,319
+file is. It consists
+
+49
+00:02:16,319 --> 00:02:19,950
+of two parts – the preamble
+and the body of the document.
+
+50
+00:02:19,950 --> 00:02:24,319
+The preamble sets up
+different packages, overriding,
+
+51
+00:02:24,319 --> 00:02:26,370
+settings, options
+that affect
+
+52
+00:02:26,370 --> 00:02:27,629
+the entire document.
+
+53
+00:02:27,629 --> 00:02:30,769
+The body contains the content
+of the document in
+
+54
+00:02:30,769 --> 00:02:34,209
+accordance to the system syntax.
+
+55
+00:02:34,209 --> 00:02:37,629
+When working with the source
+file, as noted above, it is
+
+56
+00:02:37,629 --> 00:02:39,569
+necessary to operate
+on various commands.
+
+57
+00:02:39,569 --> 00:02:42,930
+They are declared through the
+backslash character followed by
+
+58
+00:02:42,930 --> 00:02:45,719
+the name of the command without
+spacing.
+
+59
+00:02:45,719 --> 00:02:48,489
+For some commands, it is necessary
+to specify arguments, which
+
+60
+00:02:48,489 --> 00:02:52,030
+can be mandatory
+and indicated
+
+61
+00:02:52,030 --> 00:02:55,639
+in braces
+or indicated 
+
+62
+00:02:55,639 --> 00:02:57,030
+in square brackets.
+
+63
+00:02:57,030 --> 00:03:01,060
+For example, the first command
+starting the preamble
+
+64
+00:03:01,060 --> 00:03:05,329
+of the source tex
+file is as follows.
+
+65
+00:03:05,329 --> 00:03:08,080
+It determines the
+style of the document.
+
+66
+00:03:08,080 --> 00:03:11,220
+Notice the backslash
+character, the name of
+
+67
+00:03:11,220 --> 00:03:14,510
+the command, and the mandatory
+argument – “article” specified
+
+68
+00:03:14,510 --> 00:03:16,319
+in braces.
+
+69
+00:03:16,319 --> 00:03:19,310
+This argument means that the
+document, after compilation,
+
+70
+00:03:19,310 --> 00:03:21,459
+will be issued in the form of an article.
+
+71
+00:03:21,459 --> 00:03:23,989
+In addition to “article”, there are
+other standard categories, such as
+
+72
+00:03:23,989 --> 00:03:26,609
+“book” for writing a book or
+“report” for writing
+
+73
+00:03:26,609 --> 00:03:27,609
+a report.
+
+74
+00:03:27,609 --> 00:03:30,480
+It is important to note that
+the category can be non-standard.
+
+75
+00:03:30,480 --> 00:03:32,840
+For instance, to prepare
+a publication for a journal or
+
+76
+00:03:32,840 --> 00:03:36,459
+a conference proceeding,
+a special category 
+
+77
+00:03:36,459 --> 00:03:39,940
+can be used that takes into
+account the requirements
+
+78
+00:03:39,940 --> 00:03:40,940
+of the editorial design.
+
+79
+00:03:40,940 --> 00:03:43,340
+To do this, you will need to place
+the file with the cls extension 
+
+80
+00:03:43,340 --> 00:03:47,279
+downloaded from the editorial site
+in the folder with the tex file.
+
+81
+00:03:47,279 --> 00:03:51,370
+Regarding the \documentclass
+command, optional settings
+
+82
+00:03:51,370 --> 00:03:53,930
+can be specified in
+the square brackets, 
+
+83
+00:03:53,930 --> 00:03:56,219
+separated by commas, between
+a command name and the
+
+84
+00:03:56,219 --> 00:03:57,859
+mandatory argument.
+
+85
+00:03:57,859 --> 00:04:01,129
+For example, point size,
+paper format,
+
+86
+00:04:01,129 --> 00:04:02,959
+dual column text, etc.
+
+87
+00:04:02,959 --> 00:04:06,379
+The command \documentclass is
+followed by connecting the packages,
+
+88
+00:04:06,379 --> 00:04:08,559
+depending on the
+functionality required.
+
+89
+00:04:08,559 --> 00:04:11,800
+These packages can either be
+pre-installed with the
+
+90
+00:04:11,800 --> 00:04:14,290
+TeX distribution or can
+be downloaded from
+
+91
+00:04:14,290 --> 00:04:16,900
+the repository during compiled time.
+
+92
+00:04:16,900 --> 00:04:19,530
+The next important concept,
+which is actively used while
+
+93
+00:04:19,530 --> 00:04:23,550
+working with LaTeX, is called
+environment. It is
+
+94
+00:04:23,550 --> 00:04:26,690
+set using the following
+construction.
+
+95
+00:04:26,690 --> 00:04:29,789
+Notice that there is
+a mandatory argument
+
+96
+00:04:29,789 --> 00:04:32,629
+in the braces –
+the name of the environment.
+
+97
+00:04:32,629 --> 00:04:35,350
+Depending on the
+selected environment,
+
+98
+00:04:35,350 --> 00:04:38,410
+some additional arguments,
+both mandatory
+
+99
+00:04:38,410 --> 00:04:39,940
+and optional can be specified.
+
+100
+00:04:39,940 --> 00:04:41,920
+Regarding the structure of
+the source file, after
+
+101
+00:04:41,920 --> 00:04:45,660
+declaring the document style and
+entire preamble, it is necessary
+
+102
+00:04:45,660 --> 00:04:49,319
+to define an environment that represents
+the body of the document itself.
+
+103
+00:04:49,319 --> 00:04:52,520
+Inside we will have the
+content of the document.
+
+104
+00:04:52,520 --> 00:04:56,349
+When typing, keep in
+mind basic rules.
+
+105
+00:04:56,349 --> 00:04:57,970
+Words in the source file are
+separated from each other
+
+106
+00:04:57,970 --> 00:05:02,589
+by spaces, while the number
+of spaces does not matter –
+
+107
+00:05:02,589 --> 00:05:04,940
+when compiling, only one
+will be placed between
+
+108
+00:05:04,940 --> 00:05:06,099
+the words.
+
+109
+00:05:06,099 --> 00:05:08,900
+Carrying over to the new
+line is also perceived as
+
+110
+00:05:08,900 --> 00:05:10,330
+a space.
+
+111
+00:05:10,330 --> 00:05:13,479
+Paragraphs are separated
+by blank lines.
+
+112
+00:05:13,479 --> 00:05:16,250
+After the compilation
+most of the characters appear
+
+113
+00:05:16,250 --> 00:05:18,320
+as they appear in the source file.
+
+114
+00:05:18,320 --> 00:05:21,580
+An exception is the special
+characters used in
+
+115
+00:05:21,580 --> 00:05:26,220
+the LaTeX syntax including:
+backslash, braces, percentage,
+
+116
+00:05:26,220 --> 00:05:30,379
+underlining, circumflex,
+tilde, dollar sign, hash.
+
+117
+00:05:30,379 --> 00:05:32,860
+To format the text
+specific commands are
+
+118
+00:05:32,860 --> 00:05:35,650
+used, after changing
+the current font settings
+
+119
+00:05:35,650 --> 00:05:39,419
+(e.g. point size,
+style, etc.).
+
+120
+00:05:39,419 --> 00:05:42,800
+These changes are distributed
+to the end of the current group,
+
+121
+00:05:42,800 --> 00:05:45,900
+which is limited to either
+the current environment
+
+122
+00:05:45,900 --> 00:05:47,550
+or braces.
+
+123
+00:05:47,550 --> 00:05:50,870
+The convenience of the LaTeX system
+is that many routine tasks are 
+
+124
+00:05:50,870 --> 00:05:52,759
+automated like adding links.
+
+125
+00:05:52,759 --> 00:05:55,070
+When it is necessary
+to refer to a specific
+
+126
+00:05:55,070 --> 00:05:56,180
+place in
+
+127
+00:05:56,180 --> 00:05:59,569
+the text,
+for example, 
+
+128
+00:05:59,569 --> 00:06:02,849
+to a sentence
+or a
+
+129
+00:06:02,849 --> 00:06:06,290
+word on
+another page,
+
+130
+00:06:06,290 --> 00:06:09,610
+you can use the
+following commands:
+
+131
+00:06:09,610 --> 00:06:13,949
+\pageref{} command, which
+returns to the page number,
+
+132
+00:06:13,949 --> 00:06:18,100
+or the \ref{} command, which
+returns to the number of the
+
+133
+00:06:18,100 --> 00:06:19,100
+corresponding section.
+
+134
+00:06:19,100 --> 00:06:21,210
+The system also automizes
+updates of page and chapter
+
+135
+00:06:21,210 --> 00:06:23,280
+numbers during compilation.
+
+136
+00:06:23,280 --> 00:06:26,069
+In the same way, organizes
+the references in numbered
+
+137
+00:06:26,069 --> 00:06:29,300
+formulas, figures,
+tables, etc.
+
+138
+00:06:29,300 --> 00:06:32,349
+At the end of this lecture,
+try to create
+
+139
+00:06:32,349 --> 00:06:35,430
+your first document using
+the example given.
+
+140
+00:06:35,430 --> 00:06:38,240
+Please note that by default,
+the LaTeX system does
+
+141
+00:06:38,240 --> 00:06:40,120
+not support the Russian language.
+
+142
+00:06:40,120 --> 00:06:43,879
+Therefore, it is necessary
+to include in the preamble
+
+143
+00:06:43,879 --> 00:06:46,569
+the corresponding
+packages, namely
+
+144
+00:06:46,569 --> 00:06:49,880
+the encoding in which the Russian
+text will be added.
+
+145
+00:06:49,880 --> 00:06:53,659
+In the next video, we will consider
+a set of formulas, adding
+
+146
+00:06:53,659 --> 00:06:55,360
+pictures and tables
+in the LaTeX system.
+

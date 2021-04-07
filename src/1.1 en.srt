@@ -1,0 +1,226 @@
+0:00:00.880,0:00:03.530
+Welcome to the “Living in Science” Online Course.
+
+0:00:03.530,0:00:06.590
+I am Dmitry Malkov, director of Science Communication Centre
+
+0:00:06.590,0:00:08.000
+and lecturer at ITMO University.
+
+0:00:08.000,0:00:10.990
+In the following two videos, I will discuss
+
+0:00:10.990,0:00:13.660
+the focus of our course and how it is organized.
+
+0:00:13.660,0:00:16.449
+I will inform you on the key modules,
+
+0:00:16.449,0:00:18.900
+lecturers and requirements. Most importantly,
+
+0:00:18.900,0:00:22.449
+you will be able to answer the question: 
+Which forms of life exist in science?
+
+0:00:22.449,0:00:25.210
+Every student ponders about
+his or her place in science.
+
+0:00:25.210,0:00:27.019
+During the study period at University,
+students undertake
+
+0:00:27.019,0:00:29.329
+the role of a researcher to discover
+
+0:00:29.329,0:00:31.509
+his or her own scientific interests.
+
+0:00:31.509,0:00:33.230
+Each of these interests require
+
+0:00:33.230,0:00:35.860
+countless hours in the laboratory,
+
+0:00:35.860,0:00:38.980
+making it difficult to research each one.
+
+0:00:38.980,0:00:40.940
+We can conclude that the field
+of science is connected with   
+
+0:00:40.940,0:00:43.850
+countless experiments, hardware setups,
+
+0:00:43.850,0:00:45.590
+and complex calculations.
+
+0:00:45.590,0:00:47.890
+However, the field is not limited
+
+0:00:47.890,0:00:49.040
+to this.
+
+0:00:49.040,0:00:51.190
+Science can be seen as
+ a social institution.
+
+0:00:51.190,0:00:53.660
+The role science and technology 
+has taken in the fields
+
+0:00:53.660,0:00:56.760
+of economic and social development
+has always been a subject matter
+
+0:00:56.760,0:00:57.760
+for scholars and thinkers.
+
+0:00:57.760,0:00:59.810
+Vannevar Bush, an American scientist
+and public figure,
+
+0:00:59.810,0:01:02.810
+had a prominent impact on the
+modern perspective of science  
+
+0:01:02.810,0:01:04.850
+in the 20th century.
+
+0:01:04.850,0:01:07.920
+He was able to convince Presidents
+Franklin D. Roosevelt and Harry S. Truman
+
+0:01:07.920,0:01:11.060
+ of the need to control technology during war
+
+0:01:11.060,0:01:12.530
+and facilitate peace post-war.
+
+0:01:12.530,0:01:16.280
+Bush always said that science is
+a “goose that lays golden eggs”.
+
+0:01:16.280,0:01:19.219
+That is to say science and technology
+gave rise to economic
+
+0:01:19.219,0:01:21.409
+and social prosperity.
+
+0:01:21.409,0:01:24.139
+His point of view was later confirmed through
+
+0:01:24.139,0:01:26.850
+the works of many economists,
+
+0:01:26.850,0:01:28.539
+including Nobel laureate Robert Solow.
+
+0:01:28.539,0:01:31.180
+Not surprisingly, fundamental and applied research
+
+0:01:31.180,0:01:33.950
+is now embedded in our reality, from the methods
+of communication and transportation
+
+0:01:33.950,0:01:36.929
+to the interactions within ecology
+and the health care system. 
+
+0:01:36.929,0:01:39.969
+The idea of prosperity has surpassed
+a goose laying golden eggs
+
+0:01:39.969,0:01:41.850
+to geese laying golden eggs.
+
+0:01:41.850,0:01:44.619
+This state of affairs requires
+modern scientists
+
+0:01:44.619,0:01:47.750
+to be more proactive and have the
+capability to convey their ideas to
+
+0:01:47.750,0:01:51.299
+a variety of audiences: the state,
+the funding organizations 
+
+0:01:51.299,0:01:52.840
+and the industry representatives.
+
+0:01:52.840,0:01:55.360
+The illusion of a scientist working alone 
+
+0:01:55.360,0:01:58.639
+in the dark has no validity 
+
+0:01:58.639,0:01:59.639
+in modern science.
+
+0:01:59.639,0:02:02.149
+Today the boundaries of scientific
+disciplines are being redefined 
+
+0:02:02.149,0:02:03.840
+before one’s eyes.
+
+0:02:03.840,0:02:06.320
+Interdisciplinarity
+and transdisiciplinarity approaches
+
+0:02:06.320,0:02:10.050
+have allowed scientists to continuously
+
+0:02:10.050,0:02:13.160
+go beyond their scientific fields to collaborate
+
+0:02:13.160,0:02:14.910
+in search of solutions.
+
+0:02:14.910,0:02:18.500
+To be successful in science today,
+your expertise
+
+0:02:18.500,0:02:21.440
+and research skills need
+to be complemented by
+
+0:02:21.440,0:02:22.970
+a range of soft skills.
+
+0:02:22.970,0:02:25.670
+Not only should you be up to date
+
+0:02:25.670,0:02:28.410
+in your research field, but also understand
+
+0:02:28.410,0:02:30.980
+the national priorities for scientific
+and technical development.
+
+0:02:30.980,0:02:34.670
+You will need to be exposed to global challenges,
+
+0:02:34.670,0:02:38.460
+build a research strategy and
+
+0:02:38.460,0:02:41.580
+a commercialization model
+for your developments.
+
+0:02:41.580,0:02:42.580
+You will then be able to communicate
+your ideas to grantors,
+
+0:02:42.580,0:02:44.990
+business representatives and government officials.
+
+0:02:44.990,0:02:47.811
+We hope that this course will
+help you to find
+
+0:02:47.811,0:02:47.830
+your way in science!

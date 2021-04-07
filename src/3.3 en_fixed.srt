@@ -1,0 +1,468 @@
+1
+00:00:05,250 --> 00:00:06,250
+ Hello.
+
+2
+00:00:06,250 --> 00:00:09,880
+ This lecture will be devoted to scientometric indicators of journals.
+
+3
+00:00:09,880 --> 00:00:12,720
+ First attempts to make use  of scientometrics, use 
+
+4
+00:00:12,720 --> 00:00:17,400
+ citations in work of scientific and research organizations
+
+5
+00:00:17,400 --> 00:00:21,990
+ were made in 1927, while gathering librarian collections
+
+6
+00:00:21,990 --> 00:00:23,830
+ of some universities.
+
+7
+00:00:23,830 --> 00:00:26,380
+ This whole system is based on the assumption that if some
+
+8
+00:00:26,380 --> 00:00:29,730
+ articles are cited more often than others, they have
+
+9
+00:00:29,730 --> 00:00:32,470
+ better quality. And if these
+
+10
+00:00:32,470 --> 00:00:35,860
+ frequently cited articles get into a journal, this means that
+
+11
+00:00:35,860 --> 00:00:38,530
+ the quality of this journal is much higher than
+
+12
+00:00:38,530 --> 00:00:41,399
+ that of other journal in this subject area.
+
+13
+00:00:41,399 --> 00:00:43,620
+ First and the most well-knownindicator 
+
+14
+00:00:43,620 --> 00:00:46,310
+ that is used for journals’ evaluation 
+
+15
+00:00:46,310 --> 00:00:49,420
+ is Impact factor.
+
+16
+00:00:49,420 --> 00:00:52,261
+ I want to emphasize that real Impact factor may be
+
+17
+00:00:52,261 --> 00:00:55,629
+ calculated only for the journals included in Web of Science system.
+
+18
+00:00:55,629 --> 00:00:56,629
+ Why?
+
+19
+00:00:56,629 --> 00:00:59,350
+ Because Web of Science has rights on the word 
+
+20
+00:00:59,350 --> 00:01:03,800
+ brand “Impact factor”, that’s why.
+
+21
+00:01:03,800 --> 00:01:07,860
+ How is Impact factor calculated? Impact factor is a number of
+
+22
+00:01:07,860 --> 00:01:10,440
+ citations made in a particular year 
+
+23
+00:01:10,440 --> 00:01:12,920
+ of the articles published in this journal
+
+24
+00:01:12,920 --> 00:01:17,860
+ during previous two years, divided by total number of articles 
+
+25
+00:01:17,860 --> 00:01:19,390
+ over the same period of time. Impact factor cannot be used 
+
+26
+00:01:19,390 --> 00:01:23,200
+ to compare journals from different scientific areas
+
+27
+00:01:23,200 --> 00:01:25,039
+ because of the following reasons:
+
+28
+00:01:25,039 --> 00:01:27,680
+ - Different publication activity in different areas
+
+29
+00:01:27,680 --> 00:01:29,580
+ - Different number of researchers
+
+30
+00:01:29,580 --> 00:01:32,670
+ - And simply because of difference in frequency of documents publishing
+
+31
+00:01:32,670 --> 00:01:38,270
+ In addition to the classical Impact factor, that includes 
+
+32
+00:01:38,270 --> 00:01:41,810
+ information about a two-year period,
+
+33
+00:01:41,810 --> 00:01:45,150
+ there is so called five-year impact factor.
+
+34
+00:01:45,150 --> 00:01:47,360
+ These two indicators are in constant rivalry, trying 
+
+35
+00:01:47,360 --> 00:01:49,729
+ to prove which one is more accurate.
+
+36
+00:01:49,729 --> 00:01:52,380
+ In fact, the two-year Impact factor allows making operations 
+
+37
+00:01:52,380 --> 00:01:55,380
+ more frequently, which is logical, while the five-year one 
+
+38
+00:01:55,380 --> 00:01:58,320
+ includes more samples, and shows 
+
+39
+00:01:58,320 --> 00:02:01,689
+ more qualitative evaluation of a journal.
+
+40
+00:02:01,689 --> 00:02:04,260
+ In Scopus system there is CiteScore, which is
+
+41
+00:02:04,260 --> 00:02:07,229
+ Impact factor’s analog. It is calculated in exactly 
+
+42
+00:02:07,229 --> 00:02:08,229
+ the same way – it is a correlation between the citations 
+
+43
+00:02:08,229 --> 00:02:10,580
+ in a particular year and the number of articles
+
+44
+00:02:10,580 --> 00:02:14,259
+ in this journal over the previous three years.
+
+45
+00:02:14,259 --> 00:02:17,400
+ The only difference is the number of years
+
+46
+00:02:17,400 --> 00:02:21,129
+ that is taken for the analysis – 
+
+47
+00:02:21,129 --> 00:02:24,860
+ two years for Impact factor,
+
+48
+00:02:24,860 --> 00:02:27,980
+ and three years for CiteScore.
+
+49
+00:02:27,980 --> 00:02:31,420
+ It is important to note that both Impact factor and CiteScore
+
+50
+00:02:31,420 --> 00:02:35,360
+ are calculated for the previous year or the year before last.
+
+51
+00:02:35,360 --> 00:02:38,709
+ This is done to avoid risk of missing citations
+
+52
+00:02:38,709 --> 00:02:41,910
+ that were made during current year,
+
+53
+00:02:41,910 --> 00:02:44,680
+ but have not been indexed just yet, or have not been made
+
+54
+00:02:44,680 --> 00:02:46,260
+ during current calendar year.
+
+55
+00:02:46,260 --> 00:02:50,840
+ Another important indicatoris SNIP, Source normalized impact per paper.
+
+56
+00:02:50,840 --> 00:02:54,340
+ What does it allow to do? It helps in situations?
+
+57
+00:02:54,340 --> 00:02:56,860
+ when neither classical Impact factor nor CiteScore work,
+
+58
+00:02:56,860 --> 00:03:00,230
+ in particular it allows to compare journals from different
+
+59
+00:03:00,230 --> 00:03:02,980
+ subject areas.
+
+60
+00:03:02,980 --> 00:03:04,640
+ How is it possible?
+
+61
+00:03:04,640 --> 00:03:07,230
+ It is possible because SNIP considers size of
+
+62
+00:03:07,230 --> 00:03:11,260
+ the subject area, number of researchers
+
+63
+00:03:11,260 --> 00:03:16,030
+ working in this area, as well as potential citations,
+
+64
+00:03:16,030 --> 00:03:18,060
+ meaning the assumption on how many citations an article
+
+65
+00:03:18,060 --> 00:03:21,730
+ devoted to one or another issue can potentially get.
+
+66
+00:03:21,730 --> 00:03:25,920
+ Another important metrics is Eigenfactor or so called
+
+67
+00:03:25,920 --> 00:03:26,920
+ prestige factor.
+
+68
+00:03:26,920 --> 00:03:30,819
+ It has the iterative model in its basis, similar to that
+
+69
+00:03:30,819 --> 00:03:34,260
+ used by Google Pagerank, created by Larry Page.
+
+70
+00:03:34,260 --> 00:03:36,840
+ As soon as you type in your retrieval request in Google,
+
+71
+00:03:36,840 --> 00:03:39,750
+ the links get arranged in certain order:
+
+72
+00:03:39,750 --> 00:03:42,170
+ first ones are considered to be the most reliable,
+
+73
+00:03:42,170 --> 00:03:46,700
+ popular or prestigious. If we imagine it as
+
+74
+00:03:46,700 --> 00:03:48,670
+ a comprehensible model,
+
+75
+00:03:48,670 --> 00:03:54,239
+ it would work the following way: if your article was cited
+
+76
+00:03:54,239 --> 00:03:56,860
+ in Nature and in some random journal of
+
+77
+00:03:56,860 --> 00:03:59,960
+ a regional university,  he former citation would
+
+78
+00:03:59,960 --> 00:04:01,110
+ weight way more.
+
+79
+00:04:01,110 --> 00:04:04,410
+ It might weight hundred or even thousand times more.
+
+80
+00:04:04,410 --> 00:04:07,629
+ SJR is calculated on the basis of Scopus databases,
+
+81
+00:04:07,629 --> 00:04:12,250
+ and has its own portal that shows ranking of all journals
+
+82
+00:04:12,250 --> 00:04:15,060
+ included in Scopus, as well
+
+83
+00:04:15,060 --> 00:04:19,189
+ as rakings of countries, universities
+
+84
+00:04:19,189 --> 00:04:21,530
+ and even separate research groups.
+
+85
+00:04:21,530 --> 00:04:24,381
+ Not only SJR is published on a  separate portal where you can
+
+86
+00:04:24,381 --> 00:04:27,090
+ find rankings of journals, countries and universities,
+
+87
+00:04:27,090 --> 00:04:30,310
+ evaluated on the basis of
+
+88
+00:04:30,310 --> 00:04:35,180
+ this indicator, it is also used for determination of 
+
+89
+00:04:35,180 --> 00:04:39,009
+ journals’ quartile. There are four journal quartile
+
+90
+00:04:39,009 --> 00:04:42,650
+ s in Scopus and Web of Science The most well-known and popular
+
+91
+00:04:42,650 --> 00:04:45,919
+ articles are published in the first quartile, 
+
+92
+00:04:45,919 --> 00:04:49,520
+ while the least popular ones - in the fourth quartile respectively.
+
+93
+00:04:49,520 --> 00:04:53,460
+ In Scopus system we would use CiteScore for this ranking,
+
+94
+00:04:53,460 --> 00:04:56,950
+ while in Web of Science
+
+95
+00:04:56,950 --> 00:05:00,150
+ we would use Impact factor for this.
+
+96
+00:05:00,150 --> 00:05:03,680
+ In addition to classical indicators,
+
+97
+00:05:03,680 --> 00:05:07,990
+ there are several alternative ones, so called “alt metrics”.
+
+98
+00:05:07,990 --> 00:05:14,009
+ In fact, they are references to a scientific work,
+
+99
+00:05:14,009 --> 00:05:16,650
+ published in a scientific journal, but references made
+
+100
+00:05:16,650 --> 00:05:19,759
+ in popular public and political media, or in social networks, 
+
+101
+00:05:19,759 --> 00:05:24,360
+ such as Twitter, Facebook, LinkedIn, and what not.
+
+102
+00:05:24,360 --> 00:05:29,601
+ In this context, there is such an interesting thing 
+
+103
+00:05:29,601 --> 00:05:31,350
+ as NY Times scientific citation index.
+
+104
+00:05:31,350 --> 00:05:37,070
+ When in Sunday scientific column of NY Times
+
+105
+00:05:37,070 --> 00:05:41,259
+ the review on a scientific research is published,
+
+106
+00:05:41,259 --> 00:05:45,610
+ its scientometric indicators  ise considerably, which confirms 
+
+107
+00:05:45,610 --> 00:05:48,320
+ that public interest to one or another scientific issue,
+
+108
+00:05:48,320 --> 00:05:50,240
+ one or another scientific article,
+
+109
+00:05:50,240 --> 00:05:52,949
+ may have serious influence  on academia and career of 
+
+110
+00:05:52,949 --> 00:05:55,802
+ an individual scientist. Nonetheless, in spite of
+
+111
+00:05:55,802 --> 00:05:58,860
+ the fact that scientometric indicators are relatively
+
+112
+00:05:58,860 --> 00:06:02,460
+ established procedure for evaluation of scientific work,
+
+113
+00:06:02,460 --> 00:06:05,410
+ potential of a research, as well as career of individual 
+
+114
+00:06:05,410 --> 00:06:08,860
+ scientists, one should use them with great caution, and
+
+115
+00:06:08,860 --> 00:06:13,039
+ remember that citation indicators, H-indices, and impact factors
+
+116
+00:06:13,039 --> 00:06:14,960
+ do not always give an accurate evaluation of
+
+117
+00:06:14,960 --> 00:06:15,020
+ a work’s quality.
+

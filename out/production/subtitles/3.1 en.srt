@@ -1,0 +1,673 @@
+1
+00:00:00,130 --> 00:00:03,000
+Hello everyone, my name is
+Daniil, and we are about to start a new module
+
+2
+00:00:03,000 --> 00:00:04,630
+devoted to scientometric
+indicators.
+
+3
+00:00:04,630 --> 00:00:09,400
+Scientometrics is a comprehensive research
+field that studies
+
+4
+00:00:09,400 --> 00:00:12,690
+and assesses not only journals
+and individual scientists,
+
+5
+00:00:12,690 --> 00:00:15,650
+but also research
+organizations and
+
+6
+00:00:15,650 --> 00:00:17,690
+the science itself based on
+ quantitative methods.
+
+7
+00:00:17,690 --> 00:00:21,289
+There are dozens and hundreds of different
+
+8
+00:00:21,289 --> 00:00:22,749
+scientometric indicators.
+
+9
+00:00:22,749 --> 00:00:24,820
+We will discuss only
+ the basic ones.
+
+10
+00:00:24,820 --> 00:00:28,249
+Particularly those that are
+ related to individual
+
+11
+00:00:28,249 --> 00:00:29,249
+scientists.
+
+12
+00:00:29,249 --> 00:00:31,669
+Here there are three main metrics.
+
+13
+00:00:31,669 --> 00:00:34,550
+First one is total number of tests and total
+
+14
+00:00:34,550 --> 00:00:36,750
+number of publications of a particular
+ researcher.
+
+15
+00:00:36,750 --> 00:00:40,050
+It is usually assumed that the more citations
+ you have, the more
+
+16
+00:00:40,050 --> 00:00:41,050
+demanded you are.
+
+17
+00:00:41,050 --> 00:00:43,770
+The more publications you have, the more
+ productive
+
+18
+00:00:43,770 --> 00:00:44,780
+scientist you are.
+
+19
+00:00:44,780 --> 00:00:49,040
+However, this metric has
+one key drawback.
+
+20
+00:00:49,040 --> 00:00:53,050
+First of all, as
+ the time goes it may only increase,
+
+21
+00:00:53,050 --> 00:00:55,270
+which is logical, because as you develop your   scientific career,
+
+22
+00:00:55,270 --> 00:00:57,550
+you write more and more articles, and get more
+
+23
+00:00:57,550 --> 00:01:01,560
+citations; having said that, it is not
+ quite correct to compare
+
+24
+00:01:01,560 --> 00:01:04,439
+young scientists with
+ the distinguished ones,
+
+25
+00:01:04,439 --> 00:01:06,909
+because the latter
+ would have much higher
+
+26
+00:01:06,909 --> 00:01:08,399
+metrics.
+
+27
+00:01:08,399 --> 00:01:11,789
+Second indicator is evaluation of citations
+ number
+
+28
+00:01:11,789 --> 00:01:13,539
+of the author's most cited publication.
+
+29
+00:01:13,539 --> 00:01:14,600
+Why is this needed?
+
+30
+00:01:14,600 --> 00:01:18,810
+For instance, your scientific career was very short
+
+31
+00:01:18,810 --> 00:01:22,789
+or during your academic path you have
+ just published
+
+32
+00:01:22,789 --> 00:01:26,100
+a couple of monographs and
+ articles, which
+
+33
+00:01:26,100 --> 00:01:28,409
+nonetheless have dramatically
+ changed
+
+34
+00:01:28,409 --> 00:01:30,549
+your research field.
+
+35
+00:01:30,549 --> 00:01:33,569
+Most likely, it will
+ gain big number of citations,
+
+36
+00:01:33,569 --> 00:01:36,020
+but if to use other
+ scientometric
+
+37
+00:01:36,020 --> 00:01:38,079
+indicators, it will not be seen.
+
+38
+00:01:38,079 --> 00:01:39,530
+Therefore, we are talking about him
+always separate.
+
+39
+00:01:39,530 --> 00:01:44,329
+This is why we always take this
+
+40
+00:01:44,329 --> 00:01:46,549
+one into consideration.
+
+41
+00:01:46,549 --> 00:01:49,079
+Hirsch index is a metrics
+ that was suggested
+
+42
+00:01:49,079 --> 00:01:53,889
+in 2005 by an Argentine American
+ physicist Jorge Hirsch from
+
+43
+00:01:53,889 --> 00:01:56,029
+University of California
+in San Diego.
+
+44
+00:01:56,029 --> 00:01:59,240
+This is an attempt to balance
+ qualitative
+
+45
+00:01:59,240 --> 00:02:01,119
+and quantitative evaluation of
+ scientist's works.
+
+46
+00:02:01,119 --> 00:02:04,579
+But in reality
+
+47
+00:02:04,579 --> 00:02:05,579
+it fails in both.
+
+48
+00:02:05,579 --> 00:02:10,880
+H-index is calculated the following way: your
+ h-index amounts to n
+
+49
+00:02:10,880 --> 00:02:13,890
+if you have n number of
+ publications, each of which
+
+50
+00:02:13,890 --> 00:02:15,810
+was cited at least n
+ times.
+
+51
+00:02:15,810 --> 00:02:17,700
+For example,
+
+52
+00:02:17,700 --> 00:02:21,080
+if your h-index is 5, it
+ means that you have
+
+53
+00:02:21,080 --> 00:02:24,080
+written 5 articles, each of
+ which was cited at least 5
+
+54
+00:02:24,080 --> 00:02:25,080
+times.
+
+55
+00:02:25,080 --> 00:02:26,080
+Congratulations.
+
+56
+00:02:26,080 --> 00:02:29,930
+As a rule, when we talk about h-index,
+
+57
+00:02:29,930 --> 00:02:32,680
+we have to mention several
+ key drawbacks of this
+
+58
+00:02:32,680 --> 00:02:33,680
+metrics.
+
+59
+00:02:33,680 --> 00:02:35,970
+First of all, it does not consider input of each
+ particular
+
+60
+00:02:35,970 --> 00:02:38,060
+scientist in joint work.
+
+61
+00:02:38,060 --> 00:02:40,610
+Let's say that there is a big research
+
+62
+00:02:40,610 --> 00:02:43,340
+group that
+ works at the Large Hadron Collider
+
+63
+00:02:43,340 --> 00:02:45,630
+and writes an article, and there is you.
+
+64
+00:02:45,630 --> 00:02:47,540
+And you have been writing
+ your monography for several years.
+
+65
+00:02:47,540 --> 00:02:52,130
+In both cases, citations
+
+66
+00:02:52,130 --> 00:02:54,730
+for one member of the
+ group and for you,
+
+67
+00:02:54,730 --> 00:02:57,130
+as an individual author, will
+ always amount to an arbitrary unit.
+
+68
+00:02:57,130 --> 00:02:59,660
+This is not always correct.
+
+69
+00:02:59,660 --> 00:03:03,340
+Secondly, h-index ignores those scientific
+ fields
+
+70
+00:03:03,340 --> 00:03:06,200
+that are not presented in the form of
+ classical reports
+
+71
+00:03:06,200 --> 00:03:08,040
+or conferences, publications or
+ reviews.
+
+72
+00:03:08,040 --> 00:03:13,010
+For instance, if we consider modern
+ technologies,
+
+73
+00:03:13,010 --> 00:03:16,590
+patents are usually the way to
+ report and demonstrate
+
+74
+00:03:16,590 --> 00:03:19,490
+scientific activity in the
+ field.
+
+75
+00:03:19,490 --> 00:03:21,470
+Or perhaps, there are some books and
+ monographies that are not very well indexed
+
+76
+00:03:21,470 --> 00:03:22,990
+in scientometric data bases.
+
+77
+00:03:22,990 --> 00:03:27,430
+Thirdly, and we have mentioned this before, h-
+ index
+
+78
+00:03:27,430 --> 00:03:30,310
+ignores your most cited and important
+ articles.
+
+79
+00:03:30,310 --> 00:03:33,650
+For example, if you have
+
+80
+00:03:33,650 --> 00:03:36,730
+written only
+ three works, and one of them is
+
+81
+00:03:36,730 --> 00:03:40,100
+cited dozens or thousands of times, your
+
+82
+00:03:40,100 --> 00:03:41,970
+h-index
+
+83
+00:03:41,970 --> 00:03:43,220
+will still be 3.
+
+84
+00:03:43,220 --> 00:03:46,000
+On the other hand, you could
+have written fifteen
+
+85
+00:03:46,000 --> 00:03:49,040
+articles of fair quality, and each of
+
+86
+00:03:49,040 --> 00:03:51,940
+them would be cited at least fifteen times.
+
+87
+00:03:51,940 --> 00:03:54,760
+In this case you h-index would amount to 15.
+
+88
+00:03:54,760 --> 00:03:57,920
+But in reality you have not influenced  significantly
+
+89
+00:03:57,920 --> 00:04:00,850
+to your research field.
+
+90
+00:04:00,850 --> 00:04:04,140
+Moreover, besides h-index per se,
+
+91
+00:04:04,140 --> 00:04:06,800
+there are several h-index-like indicators.
+
+92
+00:04:06,800 --> 00:04:08,590
+Scientometricists have a joke that another h-
+ index-like
+
+93
+00:04:08,590 --> 00:04:10,510
+indicator is invented every second
+ week, and they do not monitor
+
+94
+00:04:10,510 --> 00:04:13,150
+them anymore.
+
+95
+00:04:13,150 --> 00:04:17,220
+Nonetheless, m- and g-indices have fitted in
+ more or less.
+
+96
+00:04:17,220 --> 00:04:19,000
+M-index is same h-index
+
+97
+00:04:19,000 --> 00:04:22,030
+that additionally
+ considers length of
+
+98
+00:04:22,030 --> 00:04:24,840
+scientific career or, to put it
+ differently, that very
+
+99
+00:04:24,840 --> 00:04:27,620
+time period over which the scientific works in   consideration
+
+100
+00:04:27,620 --> 00:04:28,620
+were written.
+
+101
+00:04:28,620 --> 00:04:31,720
+Thus, it enables to balance young and
+ experienced scientists.
+
+102
+00:04:31,720 --> 00:04:33,840
+and already experienced at the academy
+person.
+
+103
+00:04:33,840 --> 00:04:36,590
+G-index compensates for another significant
+
+104
+00:04:36,590 --> 00:04:39,180
+drawback of h-index, and considers input of
+ your
+
+105
+00:04:39,180 --> 00:04:42,980
+most cited
+
+106
+00:04:42,980 --> 00:04:43,980
+articles.
+
+107
+00:04:43,980 --> 00:04:46,070
+It uses concept of
+ average citation index.
+
+108
+00:04:46,070 --> 00:04:51,330
+Furthermore, there are so called specialized
+
+109
+00:04:51,330 --> 00:04:52,340
+h-indices.
+
+110
+00:04:52,340 --> 00:04:56,170
+Biologists have their own h-index,
+ biological
+
+111
+00:04:56,170 --> 00:04:57,170
+index;
+
+112
+00:04:57,170 --> 00:04:58,569
+physicists have their own as
+ well; and so on.
+
+113
+00:04:58,569 --> 00:04:59,569
+Why is it needed?
+
+114
+00:04:59,569 --> 00:05:02,380
+It is an attempt to balance
+ difference in citations
+
+115
+00:05:02,380 --> 00:05:04,139
+across scientific fields.
+
+116
+00:05:04,139 --> 00:05:06,690
+The point is that, on the one hand, there is
+molecular
+
+117
+00:05:06,690 --> 00:05:10,350
+biology, as actively developing
+ field, with
+
+118
+00:05:10,350 --> 00:05:12,840
+many articles being published
+
+119
+00:05:12,840 --> 00:05:13,840
+and cited.
+
+120
+00:05:13,840 --> 00:05:17,370
+Thus, h-indices of researches in this field
+ will increase actively
+
+121
+00:05:17,370 --> 00:05:18,370
+and promptly.
+
+122
+00:05:18,370 --> 00:05:20,851
+On the other hand, there is mathematics
+
+123
+00:05:20,851 --> 00:05:23,360
+and mathematicians publish their articles much  rarer,
+
+124
+00:05:23,360 --> 00:05:24,360
+preferring monographs to publications.
+
+125
+00:05:24,360 --> 00:05:26,570
+They also cite each other seldom.
+
+126
+00:05:26,570 --> 00:05:29,050
+This is why, on average, their h-indices will be  lower than
+
+127
+00:05:29,050 --> 00:05:32,260
+those of biologists, yet their input
+
+128
+00:05:32,260 --> 00:05:34,360
+in science per se might not
+
+129
+00:05:34,360 --> 00:05:36,110
+differ.
+
+130
+00:05:36,110 --> 00:05:39,169
+For this reason, the field-specialized  indicators
+
+131
+00:05:39,169 --> 00:05:40,169
+are used.
+
+132
+00:05:40,169 --> 00:05:43,160
+Nevertheless, it is worth mentioning that,
+ despite all
+
+133
+00:05:43,160 --> 00:05:46,860
+its shortcomings, h-index is the
+ most well-known
+
+134
+00:05:46,860 --> 00:05:49,110
+indicator that is widely used
+ in the whole
+
+135
+00:05:49,110 --> 00:05:52,720
+scientific community.
+
+136
+00:05:52,720 --> 00:05:56,449
+Generally, it is a good attempt to balance
+ quality
+
+137
+00:05:56,449 --> 00:05:59,560
+and quantity, but we should
+
+138
+00:05:59,560 --> 00:06:02,180
+understand what actually
+ stands behind these numbers.
+
+139
+00:06:02,180 --> 00:06:05,480
+For all the shortcomings of the Hirsch index,
+ this is one of the most
+
+140
+00:06:05,480 --> 00:06:08,940
+common indicators that have taken root in the   scientific community.
+
+141
+00:06:08,940 --> 00:06:11,960
+It is widely used by scientists, and you can often
+
+142
+00:06:11,960 --> 00:06:16,250
+see it in the beginning or in the end of
+ presentation of a particular
+
+143
+00:06:16,250 --> 00:06:17,250
+scientist.
+
+144
+00:06:17,250 --> 00:06:20,050
+It is a rather good attempt to balance quality
+
+145
+00:06:20,050 --> 00:06:22,820
+and quantity, but we should understand what
+
+146
+00:06:22,820 --> 00:06:24,240
+actually stands behind these numbers.
+
+147
+00:06:24,240 --> 00:06:28,050
+At the following lecture we will talk about those scientometric
+
+148
+00:06:28,050 --> 00:06:29,840
+indicators, which are used
+for particular articles
+
+149
+00:06:29,840 --> 00:06:32,620
+and journals, and which are used for evaluation of
+
+150
+00:06:32,620 --> 00:06:33,220
+universities activity.
+

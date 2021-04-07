@@ -1,0 +1,660 @@
+﻿1
+00:00:05,789 --> 00:00:07,949
+In the previous lecture,
+we learned about the LaTeX
+
+2
+00:00:07,949 --> 00:00:09,170
+publishing system as a whole.
+
+3
+00:00:09,170 --> 00:00:12,330
+We discovered the principles
+of working in this system,
+
+4
+00:00:12,330 --> 00:00:13,610
+the main concepts and the structure of source files.
+
+5
+00:00:13,610 --> 00:00:16,510
+In this lecture, we will continue to learn
+about the LaTeX system by studying a set of
+
+6
+00:00:16,510 --> 00:00:19,320
+system by studying a set of formulas,
+adding pictures and composing tables.
+
+7
+00:00:19,320 --> 00:00:22,140
+As mentioned in the previous
+lecture, the source file contains
+
+8
+00:00:22,140 --> 00:00:25,520
+a preamble in
+which packages are
+
+9
+00:00:25,520 --> 00:00:27,820
+declared depending
+on their functionality.
+
+10
+00:00:27,820 --> 00:00:31,520
+If the document contains
+a large number of formulas,
+
+11
+00:00:31,520 --> 00:00:33,640
+it would be advised to download
+the following two packages.
+
+12
+00:00:33,640 --> 00:00:37,830
+The LaTeX system has a
+number of different ways
+
+13
+00:00:37,830 --> 00:00:39,110
+to set formulas. Taking
+
+14
+00:00:39,110 --> 00:00:40,660
+this into account, we will
+learn the main ones.
+
+15
+00:00:40,660 --> 00:00:43,920
+The first set of formulas
+can be included in a text
+
+16
+00:00:43,920 --> 00:00:45,260
+or shown in
+a separate line.
+
+17
+00:00:45,260 --> 00:00:47,770
+In the first case they
+are separated on both sides
+
+18
+00:00:47,770 --> 00:00:51,390
+by a single dollar sign.
+In the second case they are
+
+19
+00:00:51,390 --> 00:00:52,390
+separated with a double dollar sign.
+
+20
+00:00:52,390 --> 00:00:54,930
+Notice that formulas are
+considered mathematical
+
+21
+00:00:54,930 --> 00:00:58,220
+notations, including individual
+variables and symbols
+
+22
+00:00:58,220 --> 00:01:00,940
+within the text.
+
+23
+00:01:00,940 --> 00:01:04,420
+Second set of formulas
+can be numbered and
+
+24
+00:01:04,420 --> 00:01:05,970
+unnumbered. Numbered
+
+25
+00:01:05,970 --> 00:01:08,890
+formulas are set using
+the equation environment.
+
+26
+00:01:08,890 --> 00:01:12,090
+Pay close attention to the presence
+of a name inside this environment.
+
+27
+00:01:12,090 --> 00:01:15,240
+Later on, this formula can
+be referenced using the
+
+28
+00:01:15,240 --> 00:01:17,830
+\ref{} command with
+a special label.
+
+29
+00:01:17,830 --> 00:01:20,490
+Unnumbered formulas can
+be indicated by using
+
+30
+00:01:20,490 --> 00:01:23,580
+the aforementioned double
+dollar sign or the same equation
+
+31
+00:01:23,580 --> 00:01:27,220
+environment by adding an
+asterisk at the end of
+
+32
+00:01:27,220 --> 00:01:28,220
+a name.
+
+33
+00:01:28,220 --> 00:01:31,159
+It is necessary to
+disable numbering.
+
+34
+00:01:31,159 --> 00:01:33,700
+The third is used to
+obtain a sequence of formulas
+
+35
+00:01:33,700 --> 00:01:38,740
+using various sets that differ
+in the way the formulas
+
+36
+00:01:38,740 --> 00:01:40,580
+are aligned with each other.
+Let us take the eqnarray
+
+37
+00:01:40,580 --> 00:01:42,870
+environment as an example.
+
+38
+00:01:42,870 --> 00:01:44,830
+Ampersands are necessary
+for aligning formulas
+
+39
+00:01:44,830 --> 00:01:49,530
+by a certain sign (in
+this case, an equal sign).
+
+40
+00:01:49,530 --> 00:01:51,710
+Double backslash is responsible
+for transferring to a new line.
+
+41
+00:01:51,710 --> 00:01:55,150
+Note that there are
+alternative ways
+
+42
+00:01:55,150 --> 00:01:57,409
+to set up the same formula.
+
+43
+00:01:57,409 --> 00:02:00,030
+For example, an alignment of
+formulas can also be indicated
+
+44
+00:02:00,030 --> 00:02:02,740
+by an align
+environment.
+
+45
+00:02:02,740 --> 00:02:06,060
+Here ampersands can be used
+to achieve more complex
+
+46
+00:02:06,060 --> 00:02:10,299
+formula alignment
+with each other.
+
+47
+00:02:10,299 --> 00:02:12,890
+Adding an asterisk in the
+end of both environments
+
+48
+00:02:12,890 --> 00:02:15,679
+will disable numbering.
+
+49
+00:02:15,679 --> 00:02:18,069
+You can also
+disable numbering
+
+50
+00:02:18,069 --> 00:02:20,349
+by adding
+the \nonumber
+
+51
+00:02:20,349 --> 00:02:22,349
+command to the sequence.
+As for the mathematical
+
+52
+00:02:22,349 --> 00:02:24,010
+operators and
+symbols themselves.
+
+53
+00:02:24,010 --> 00:02:26,910
+In the LaTeX system,
+you can type
+
+54
+00:02:26,910 --> 00:02:28,489
+any existing operator.
+
+55
+00:02:28,489 --> 00:02:31,409
+During your first steps we
+recommend to use guidelines
+
+56
+00:02:31,409 --> 00:02:34,129
+that are widely represented
+on the internet.
+
+57
+00:02:34,129 --> 00:02:36,580
+Here are a few
+examples of the most
+
+58
+00:02:36,580 --> 00:02:37,580
+common cases.
+
+59
+00:02:37,580 --> 00:02:41,629
+Subscripts and superscripts
+are indicated by using the
+
+60
+00:02:41,629 --> 00:02:43,459
+underscore character and circumflex.
+
+61
+00:02:43,459 --> 00:02:45,650
+These commands, by
+default, are applied only
+
+62
+00:02:45,650 --> 00:02:47,230
+to single characters.
+
+63
+00:02:47,230 --> 00:02:50,579
+If you need to specify
+an index of several symbols
+
+64
+00:02:50,579 --> 00:02:53,590
+then it must be
+enclosed in braces.
+
+65
+00:02:53,590 --> 00:02:56,260
+Fractions are recorded
+using a slash
+
+66
+00:02:56,260 --> 00:02:59,950
+or the \frac{}{} command
+with required arguments
+
+67
+00:02:59,950 --> 00:03:01,719
+that correspond to the
+numerator and denominator.
+
+68
+00:03:01,719 --> 00:03:06,239
+The superscript is written
+using the corresponding
+
+69
+00:03:06,239 --> 00:03:08,719
+commands before variables.
+
+70
+00:03:08,719 --> 00:03:11,189
+Let’s revise a few examples.
+The height of brackets can
+
+71
+00:03:11,189 --> 00:03:13,849
+be adapted to the content
+inside by using the
+
+72
+00:03:13,849 --> 00:03:17,510
+commands \left( and \right).
+If only one bracket
+
+73
+00:03:17,510 --> 00:03:20,870
+(left or right) is needed, the
+second one must be balanced
+
+74
+00:03:20,870 --> 00:03:24,559
+with a null bracket in the
+\left. or \right command.
+
+75
+00:03:24,559 --> 00:03:26,799
+The square root is written
+by using the \sqrt{} command.
+
+76
+00:03:26,799 --> 00:03:29,010
+In addition, an optional
+argument can be specified 
+
+77
+00:03:29,010 --> 00:03:32,150
+between the command name and
+braces  to display the
+
+78
+00:03:32,150 --> 00:03:33,180
+degree of the root.
+
+79
+00:03:33,180 --> 00:03:37,579
+Matrixes are defined using
+bmatrix, pmatrix and vmatrix
+
+80
+00:03:37,579 --> 00:03:40,689
+environments using square,
+round and straight brackets,
+
+81
+00:03:40,689 --> 00:03:41,689
+respectively.
+
+82
+00:03:41,689 --> 00:03:45,019
+Sometimes, it is useful to use
+an array without brackets with
+
+83
+00:03:45,019 --> 00:03:46,260
+the array environment.
+
+84
+00:03:46,260 --> 00:03:49,469
+Notice the required argument
+{rcl}, which determines
+
+85
+00:03:49,469 --> 00:03:52,279
+the number of columns and
+their horizontal alignment
+
+86
+00:03:52,279 --> 00:03:55,629
+(in this case,
+three columns
+
+87
+00:03:55,629 --> 00:03:59,230
+aligned to the right,
+center and left).
+
+88
+00:03:59,230 --> 00:04:02,040
+In the LaTeX system, it is possible
+to use trigonometric operators,
+
+89
+00:04:02,040 --> 00:04:06,120
+logarithms, limits, integrals,
+partial differentiation, lowercase
+
+90
+00:04:06,120 --> 00:04:09,089
+and uppercase letters of
+the Greek alphabet, among
+
+91
+00:04:09,089 --> 00:04:10,189
+others.
+
+92
+00:04:10,189 --> 00:04:12,609
+You can also create
+your own operators
+
+93
+00:04:12,609 --> 00:04:16,409
+using the following command
+with two mandatory arguments,
+
+94
+00:04:16,409 --> 00:04:19,810
+the first one being the command and
+the second one being the operator.
+
+95
+00:04:19,810 --> 00:04:23,760
+As a task, try typing
+different types of formulas in
+
+96
+00:04:23,760 --> 00:04:27,780
+LaTeX (included, taken out,
+numbered and not numbered),
+
+97
+00:04:27,780 --> 00:04:29,700
+which are inherent to
+your professional field.
+
+98
+00:04:29,700 --> 00:04:33,290
+For example, like this.
+
+99
+00:04:33,290 --> 00:04:35,970
+Let’s move on to adding
+pictures in the LaTeX system.
+
+100
+00:04:35,970 --> 00:04:39,990
+For this, it is necessary to
+download the following package.
+
+101
+00:04:39,990 --> 00:04:42,400
+Figures are added using
+the following construction.
+
+102
+00:04:42,400 --> 00:04:46,320
+In the figure environment there is
+an optional argument that determines
+
+103
+00:04:46,320 --> 00:04:50,030
+the location of the figure
+on a page (t corresponds
+
+104
+00:04:50,030 --> 00:04:54,010
+to the location at the top
+of the page, b - at the
+
+105
+00:04:54,010 --> 00:04:58,010
+bottom parts of the page, p - on a
+separate page, h - at the same place
+
+106
+00:04:58,010 --> 00:05:00,200
+where it is declared
+in the source file).
+
+107
+00:05:00,200 --> 00:05:03,030
+The center environment is
+necessary for content alignment
+
+108
+00:05:03,030 --> 00:05:04,920
+surroundings in the center.
+
+109
+00:05:04,920 --> 00:05:07,870
+The required argument of
+the \includegraphics command
+
+110
+00:05:07,870 --> 00:05:10,130
+is the name of the image
+file, if it is located 
+
+111
+00:05:10,130 --> 00:05:13,930
+in the same folder, as the source
+file or the path to the file
+
+112
+00:05:13,930 --> 00:05:15,870
+in case it is
+in a subfolder.
+
+113
+00:05:15,870 --> 00:05:18,880
+An optional argument determines
+the size of the figure
+
+114
+00:05:18,880 --> 00:05:21,970
+(width or height), which
+can be set as an absolute
+
+115
+00:05:21,970 --> 00:05:26,220
+value or relative
+to the length lines.
+
+116
+00:05:26,220 --> 00:05:29,280
+The \caption{} command sets
+the caption below the figure.
+
+117
+00:05:29,280 --> 00:05:32,030
+Links to the figure are
+carried out by using the
+
+118
+00:05:32,030 --> 00:05:34,470
+фppropriate mark in a way that
+is already familiar to us.
+
+119
+00:05:34,470 --> 00:05:37,670
+When adding a vector image
+in eps format, it is necessary
+
+120
+00:05:37,670 --> 00:05:41,120
+to enable the epstopdf package,
+which provides preliminary
+
+121
+00:05:41,120 --> 00:05:44,580
+conversion of the eps file to pdf.
+
+122
+00:05:44,580 --> 00:05:47,160
+Adding tables is carried
+out in a similar method
+
+123
+00:05:47,160 --> 00:05:49,130
+by using the following construction.
+
+124
+00:05:49,130 --> 00:05:51,970
+The table environment
+has the same optional
+
+125
+00:05:51,970 --> 00:05:55,270
+argument as the figure
+environment to determine
+
+126
+00:05:55,270 --> 00:05:56,900
+the location of the table on the page.
+
+127
+00:05:56,900 --> 00:05:58,970
+The tabular environment requires
+an argument that determines
+
+128
+00:05:58,970 --> 00:06:03,090
+the number of columns,
+alignment settings and
+
+129
+00:06:03,090 --> 00:06:07,960
+presence of vertical
+boundaries of the barrels.
+
+130
+00:06:07,960 --> 00:06:10,420
+Horizontal boundaries in the
+table are drawn using the
+
+131
+00:06:10,420 --> 00:06:11,540
+\hline command.
+
+132
+00:06:11,540 --> 00:06:14,190
+At the end of this
+lesson, practice
+
+133
+00:06:14,190 --> 00:06:17,620
+adding charts, diagrams,
+raster and vector figures
+
+134
+00:06:17,620 --> 00:06:22,090
+in tex file. As well
+as in the preparation
+
+135
+00:06:22,090 --> 00:06:23,090
+of tables according to the
+example above. In the next
+
+136
+00:06:23,090 --> 00:06:25,640
+lecture we will consider
+a number of useful options
+
+137
+00:06:25,640 --> 00:06:27,010
+that will be an advantage to know,
+while working with the system.
+
